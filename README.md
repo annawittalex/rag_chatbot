@@ -15,7 +15,19 @@ nomic-embed-text is used for Turning text into vectors (for search, RAG, cluster
 2. Set Up Environment
 
 ```
-python -m venv venv
-source venv/bin/activate  # On Windows: .\venv\Scripts\activate
+python3 -m venv venv_rag
+source venv_rag/bin/activate  # On Windows: .\venv\Scripts\activate
 pip install -r requirements.txt
 ```
+
+for reboot
+deactivate
+rm -rf venv_rag
+python3 -m venv venv_rag
+source venv_rag/bin/activate
+pip install -r requirements.txt
+
+then 
+
+# Install the kernel tool
+(venv) $ pip install ipykernel

@@ -4,6 +4,7 @@ docarray # Required for MultiQueryRetriever functionality
 
 # LANGCHAIN CORE (Keep unconstrained for the latest modular versions)
 langchain
+langchain-classic
 langchain-core
 langchain-community
 langchain-ollama
