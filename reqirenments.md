@@ -1,0 +1,32 @@
+- ollama
+    - Ollama is an open-source tool that allows you to easily download, run, and manage large language models (LLMs) directly on your local machine (like your laptop or a local server).
+- gradio
+    - open-source Python library that allows developers to quickly build and share interactive web interfaces
+- pdfplumber
+    - is a Python tool for extracting text, tables, images, and layout details from PDFs with high accuracy. It supports region-based cropping and works well with data tools like pandas.
+- langchain
+    - an open-source framework that helps developers build applications powered by large language models (LLMs) by providing tools to connect LLMs to external data and enabling the creation of complex workflows
+        - langchain-core
+        - langchain-ollama
+        - langchain_community
+            - Executing pip install langchain-community pulls the core library plus a large set of pre-built connectors—vector stores (Chroma, Pinecone, Weaviate), model wrappers (OpenAI, Anthropic, Hugging Face), document loaders (PDF, SQL, cloud buckets), and tracing utilities
+        - langchain_text_splitters
+- unstructured
+    - a company and open-source project that provides a platform for processing and transforming unstructured data into a clean, structured format, making it usable for AI applications like Large Language Models (LLMs). It handles a wide variety of file types, such as PDFs, Word documents, and emails, and can convert them into a structured JSON format with elements like titles, lists, and tables. 
+        - unstructured_[all-docs]
+- onnx==1.17.0
+    - Open Neural Network Exchange. It's an open-source format for AI models, defining an extensible computation graph model, built-in operators, and standard data types . The goal is to allow AI developers to move models easily between different deep learning frameworks (like PyTorch, TensorFlow, etc.) and various inference runtimes.
+- protobuf==3.20.3
+    - Protocol Buffers, or Protobuf for short, is Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. It is a highly efficient, compact, and strongly-typed alternative to data formats like JSON or XML, designed specifically for high-performance data exchange, especially between servers in a microservices architecture
+- chromadb==0.4.22
+    - Chroma is an open-source vector database specifically designed for building applications with Large Language Models (LLMs), like those used for semantic search, retrieval, and question-answering
+    - Database Type: ChromaDB
+    - Key Strength: Ease of use, open-source, tight LLM integration, rapid prototyping.	
+    - Best For: Small to medium-sized RAG and semantic search applications.
+	
+    - Database Type: Traditional DBs (PostgreSQL + pgvector)
+    - Key Strength: Combining vectors with existing relational data in one place.
+    - Best For: Projects that already use PostgreSQL and don't require extreme vector scaling.
+- Pillow
+    - Pillow is a powerful, open-source library that adds image processing and graphics capabilities to the Python programming language.
+numpy

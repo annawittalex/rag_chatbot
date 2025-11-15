@@ -1,0 +1,28 @@
+# CORE LLM INTEGRATION
+ollama
+docarray # Required for MultiQueryRetriever functionality
+
+# LANGCHAIN CORE (Keep unconstrained for the latest modular versions)
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-text-splitters
+
+# PDF/DOCUMENT TOOLS
+pdfplumber
+unstructured[all-docs]
+
+# VECTOR STORE
+chromadb
+
+# OTHER DEPENDENCIES
+streamlit
+Pillow
+numpy
+pydantic
+pytest
+pytest-cov
+coverage
+onnx
+protobuf==5.29.2
