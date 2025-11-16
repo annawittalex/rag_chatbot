@@ -1,6 +1,5 @@
 # CORE LLM INTEGRATION
 ollama
-docarray # Required for MultiQueryRetriever functionality
 
 # LANGCHAIN CORE (Keep unconstrained for the latest modular versions)
 langchain
@@ -18,12 +17,6 @@ unstructured[all-docs]
 chromadb
 
 # OTHER DEPENDENCIES
-streamlit
-Pillow
-numpy
-pydantic
-pytest
-pytest-cov
-coverage
-onnx
 protobuf==5.29.2
+
+
