@@ -29,4 +29,4 @@
     - Best For: Projects that already use PostgreSQL and don't require extreme vector scaling.
 - Pillow
     - Pillow is a powerful, open-source library that adds image processing and graphics capabilities to the Python programming language.
-numpy
+- numpy
