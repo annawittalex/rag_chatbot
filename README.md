@@ -1,3 +1,19 @@
+# Motivation
+
+This project aims to keep sensitive information private by avoiding dependence on large, hosted LLMs. While those models offer strong performance, they also require sending data to external services, which can introduce confidentiality and compliance risks.
+
+It also addresses the challenge of working through lengthy documents, where valuable details are easy to overlook. With this tool, users get a focused assistant that helps extract, organize, and retrieve relevant information without repeatedly re-reading source material. And this all happens locally, on your laptop.
+
+# Laptop Requirements
+
+- CPU: Recent 8+ core processor (Apple M1/M2 or modern Intel/AMD)
+- RAM: 16 GB minimum (32 GB recommended for larger models/documents)
+- Disk: At least 10 GB free for model weights, embeddings, and virtualenv
+- GPU: Optional; Apple Silicon runs well on CPU. On Windows/Linux, a CUDA-capable GPU speeds up inference.
+- OS: macOS, Linux, or Windows with WSL2; Python 3.10+ installed
+- Network: Temporary internet access to download models; offline usage afterward
+
+
 # Introduction
 
 RAG chatbot is a functional Python prototype of a chatbot based on the LangChain architecture and local open-source models (Ollama). Its goal is to deliver precise, context-specific answers to questions about an uploaded document (TaskFlow.pdf).
