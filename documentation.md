@@ -159,3 +159,116 @@ nomic-embed-text:latest    0a109f422b47    274 MB    6 weeks ago
     ![chunks](/screenshots/chunks.png)
 
 
+
+
+7. **28.12.2025** Looking for reasons of slow performance:
+
+by adding a timing/profiling version to measure each step:
+
+def chat_with_pdf(question, profile=False):
+    """
+    Chat with the PDF using the RAG chain.
+    
+    Args:
+        question: The question to ask
+        profile: If True, prints timing information for each step
+    """
+    if profile:
+        print("=" * 60)
+        print("PROFILING chat_with_pdf")
+        print("=" * 60)
+        
+        # Time the retriever step (includes MultiQueryRetriever LLM call)
+        print("\n[1] Retrieving documents...")
+        start_retrieve = time.time()
+        docs = retriever.invoke(question)
+        time_retrieve = time.time() - start_retrieve
+        print(f"    ✓ Retrieved {len(docs)} documents in {time_retrieve:.2f} seconds")
+        
+        # Time the formatting step
+        print("\n[2] Formatting documents...")
+        start_format = time.time()
+        formatted_context = format_docs(docs)
+        time_format = time.time() - start_format
+        print(f"    ✓ Formatted context ({len(formatted_context)} chars) in {time_format:.3f} seconds")
+        
+        # Time the LLM answer generation
+        print("\n[3] Generating answer with LLM...")
+        start_llm = time.time()
+        answer = llm.invoke(prompt.format(context=formatted_context, question=question))
+        time_llm = time.time() - start_llm
+        print(f"    ✓ Generated answer in {time_llm:.2f} seconds")
+        
+        # Time the parsing step
+        print("\n[4] Parsing output...")
+        start_parse = time.time()
+        parsed_answer = StrOutputParser().invoke(answer)
+        time_parse = time.time() - start_parse
+        print(f"    ✓ Parsed output in {time_parse:.3f} seconds")
+        
+        total_time = time_retrieve + time_format + time_llm + time_parse
+        print("\n" + "=" * 60)
+        print("TIMING SUMMARY:")
+        print(f"  Retrieval:     {time_retrieve:.2f}s ({time_retrieve/total_time*100:.1f}%)")
+        print(f"  Formatting:    {time_format:.3f}s ({time_format/total_time*100:.1f}%)")
+        print(f"  LLM Answer:    {time_llm:.2f}s ({time_llm/total_time*100:.1f}%)")
+        print(f"  Parsing:       {time_parse:.3f}s ({time_parse/total_time*100:.1f}%)")
+        print(f"  TOTAL TIME:    {total_time:.2f}s")
+        print("=" * 60 + "\n")
+        
+        return display(Markdown(parsed_answer))
+    else:
+        return display(Markdown(chain.invoke(question)))
+
+
+and detailed profiling cell to break down the MultiQueryRetriever step
+
+# Detailed profiling function to understand MultiQueryRetriever performance
+def profile_retrieval_step(question):
+    """
+    Detailed profiling of the retrieval step to understand MultiQueryRetriever overhead.
+    """
+    print("=" * 60)
+    print("DETAILED RETRIEVAL PROFILING")
+    print("=" * 60)
+    
+    # Test 1: Direct base retriever (without MultiQueryRetriever)
+    print("\n[Test 1] Direct base retriever (no MultiQueryRetriever)...")
+    start_base = time.time()
+    base_docs = base_retriever.invoke(question)
+    time_base = time.time() - start_base
+    print(f"    ✓ Base retriever: {len(base_docs)} docs in {time_base:.2f}s")
+    
+    # Test 2: MultiQueryRetriever (includes LLM call for query expansion)
+    print("\n[Test 2] MultiQueryRetriever (includes LLM query expansion)...")
+    start_multi = time.time()
+    multi_docs = retriever.invoke(question)
+    time_multi = time.time() - start_multi
+    print(f"    ✓ MultiQueryRetriever: {len(multi_docs)} docs in {time_multi:.2f}s")
+    print(f"    ⚠ MultiQueryRetriever overhead: {time_multi - time_base:.2f}s")
+    
+    print("\n" + "=" * 60)
+    print("ANALYSIS:")
+    print(f"  Base retrieval time:        {time_base:.2f}s")
+    print(f"  MultiQueryRetriever time:   {time_multi:.2f}s")
+    print(f"  Query expansion overhead:   {time_multi - time_base:.2f}s ({((time_multi - time_base) / time_multi * 100):.1f}%)")
+    print("=" * 60 + "\n")
+    
+    return base_docs, multi_docs
+
+# Uncomment to run detailed retrieval profiling:
+# profile_retrieval_step("What are these documents about?")
+
+**Results:**
+
+**exercise 1**
+![exercise 1 result llama 3.1](/screenshots/llama3.1_ex1.png)
+**exercise 2** 
+![exercise 2 result llama 3.1](/screenshots/llama3.1_ex2.png)
+
+After upgrading from llama 3.1 to llama 3.2 -> the answer generation is 2 x faster for example 1 and 3 x faster for example 2
+
+**exercise 1**
+![exercise 1 result llama 3.2](/screenshots/llama3.2_ex1.png)
+**exercise 2**
+![exercise 2 result llama 3.2](/screenshots/llama3.2_ex2.png)
