@@ -9,6 +9,7 @@ langchain-community
 langchain-ollama
 langchain-text-splitters
 langchain-chroma
+langchain-experimental
 
 # PDF/DOCUMENT TOOLS
 pdfplumber
