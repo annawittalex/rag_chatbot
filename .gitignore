@@ -113,3 +113,8 @@ data/
 models/
 *.db
 *.sqlite
+
+# UI branch only - keep these files only on ui branch
+app.py
+static/
+templates/

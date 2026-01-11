@@ -21,4 +21,7 @@ chromadb
 # OTHER DEPENDENCIES
 protobuf==5.29.2
 
+# WEB FRAMEWORK
+flask
+
 

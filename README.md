@@ -1,8 +1,14 @@
 # Motivation
 
-This project aims to keep sensitive information private by avoiding dependence on large, hosted LLMs. While those models offer strong performance, they also require sending data to external services, which can introduce confidentiality and compliance risks.
+Managing complex projects often means searching through massive PDF documents to find a single fact. While cloud AI tools (like ChatGPT) can help, uploading sensitive files to them creates serious privacy risks. This Local RAG Chatbot solves that problem:
 
-It also addresses the challenge of working through lengthy documents, where valuable details are easy to overlook. With this tool, users get a focused assistant that helps extract, organize, and retrieve relevant information without repeatedly re-reading source material. And this all happens locally, on your laptop.
+- **100% Data Privacy**: Your documents never leave your computer. The entire system runs offline, ensuring confidential data (legal, medical, or project specs) remains secure.
+
+- **Instant Information**: Stop manually re-reading 30+ page reports. Instantly extract specific details like deadlines, tasks, and requirements.
+
+- **Trusted Accuracy**: Reduces AI "hallucinations" (lying) by forcing the chatbot to answer only using facts found in your provided documents.
+
+- **Zero Cost**: No monthly subscriptions or API fees. Because it uses your own hardware, you can process unlimited documents for free.
 
 # Laptop Requirements
 
@@ -36,7 +42,7 @@ It also addresses the challenge of working through lengthy documents, where valu
 
 *Source: Simón Rodríguez, 18/11/2025, [Running LLMs Locally: Getting Started with Ollama.](https://en.paradigmadigital.com/dev/running-llms-locally-getting-started-ollama/#:~:text=GPU:%20Crucial%20for%20accelerating%20model,Use%20the%20Ollama%20Docker%20image)*
 
-# Introduction
+# Architecture
 
 RAG chatbot is a functional Python prototype of a chatbot based on the LangChain architecture and local open-source models (Ollama). Its goal is to deliver precise, context-specific answers to questions about an uploaded document.
 
@@ -45,41 +51,48 @@ The prototype is intended to significantly improve answer quality and relevance 
 ![RAG flow](/RAG_flow.png)
 *Icons taken from [Flaticon](https://www.flaticon.com)*
 
-# Prerequisites
+# Installation
 
-1. Install Ollama
+### Phase 1: Installation (Internet Required) 
 
-Visit Ollama's website to download and install
-Pull required models:
+You need an active internet connection to: 
+1. **Download Software**: Install Python and Ollama. 
+2. **Install Libraries**: Run pip install -r requirements.txt to get LangChain, ChromaDB, etc. 
+3. **Pull Models**: You must download the specific AI models into Ollama before going offline. 
+    - Run in terminal: 
+```ollama pull llama3.2 ``` (LLM)
+    - Run in terminal: ```ollama pull nomic-embed-text``` (embedding model)
+ 
+4. **First Run (Recommended)**: It is best to run the script once while online. Some document loaders (like unstructured) may need to auto-download small helper files (like NLTK tokenizers) the first time they process text. 
 
-```
-ollama pull llama3.2  # or your preferred model
-ollama pull nomic-embed-text 
+    - Set Up Environment (on Mac)
 
-```
+        ```
+        python3 -m venv venv_rag
 
+        source venv_rag/bin/activate  # On Windows: \venv\Scripts\activate
 
-2. Set Up Environment (on Mac)
+        pip install -r requirements.txt
+        ```
+    - For reboot
+        ```
+        deactivate
 
-```
-python3 -m venv venv_rag
+        rm -rf venv_rag
 
-source venv_rag/bin/activate  # On Windows: \venv\Scripts\activate
+        python3 -m venv venv_rag
 
-pip install -r requirements.txt
-```
+        source venv_rag/bin/activate
 
-For reboot
-```
-deactivate
+        pip install -r requirements.txt
 
-rm -rf venv_rag
+        (venv) $ pip install ipykernel
+        ```
 
-python3 -m venv venv_rag
+### Phase 2: Daily Usage (100% Offline) 
+Once Phase 1 is done, you can disconnect the internet. The following features work without any connection: 
+- **Loading Documents**: Processing new PDFs works locally. 
+- **Creating Database**: The Vector Database (Chroma) is created and stored on your hard drive. 
+- **Chatting**: All questions are answered by the local Llama model. 
+- **Data Privacy**: No data is ever sent to the cloud.
 
-source venv_rag/bin/activate
-
-pip install -r requirements.txt
-
-(venv) $ pip install ipykernel
-```
