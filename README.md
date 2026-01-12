@@ -96,3 +96,6 @@ Once Phase 1 is done, you can disconnect the internet. The following features wo
 - **Chatting**: All questions are answered by the local Llama model. 
 - **Data Privacy**: No data is ever sent to the cloud.
 
+## Result Example
+
+![result](/screenshots/result_chat.png)

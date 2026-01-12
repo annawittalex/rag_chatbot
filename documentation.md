@@ -6,15 +6,55 @@
 
     - Advanced Retrieval (Query Expansion): by using MultiQueryRetriever. Instead of searching for the exact user query, 3 semantic variations are being generated to catch documents that use different wording.
 
-- Local Privacy: The entire stack (Ollama + Chroma + Local Embeddings) runs offline.
+- **Local Privacy**: The entire stack (Ollama + Chroma + Local Embeddings) runs offline.
 
 Source: GitHub Repository tonykipkemboi https://github.com/tonykipkemboi/ollama_pdf_rag/tree/main
+
+- **Local database - ChromaDB**
+
+    ![db](/screenshots/db.png)
+
+    **How and when the database is created:**
+
+    The ChromaDB database is automatically created when the RAG system is initialized. This happens:
+    - On application startup (when `initialize_rag()` is first called)
+    - After uploading new PDF files
+    - After deleting PDF files (the system reinitializes with remaining files)
+
+    The database is created using ChromaDB's `PersistentClient` which stores data locally in the `chroma_database/` directory. If no collection exists, it's created when documents are first embedded. If a collection already exists, only new or changed documents are added to avoid re-embedding existing content.
+
+    **Files in chroma_database/:**
+    After the program runs, the following folders, subfolders and files are created:
+
+    - **chroma.sqlite3** = **Metadata & Index Layer** (the "catalog")
+        - SQLite database storing
+        - Stores structured information about collections, documents, and their properties
+        - Acts as a lookup table that points to where actual vector data is stored (references to vector data files)
+        - Contains references/pointers to the UUID folders
+        - Fast to query for document IDs, metadata, and collection information
+        - Relatively small file size (typically KB to MB)
+    
+    - **UUID folder/** = **Vector Data Storage** (the "storage")
+        - Stores the actual high-dimensional vector embeddings (the numerical representations of your text)
+        - Contains the HNSW (Hierarchical Navigable Small World) index for fast similarity search
+        - Binary format optimized for vector operations and similarity calculations
+        - Can be large (MB to GB depending on number of vectors)
+        - The UUID identifies which collection or segment the vectors belong to
+        - Contains binary files with the actual vector embeddings:
+            - **data_level0.bin**: Vector embeddings data
+            - **header.bin**: Header/metadata for the vectors
+            - **length.bin**: Vector dimension/length info
+            - **link_lists.bin**: HNSW index links for fast similarity search
+        
+    **Analogy:** Think of `chroma.sqlite3` as a library catalog card system that tells you which books exist and where to find them, while the UUID folders are the actual bookshelves containing the books (vectors) themselves.
+
+        
 
 ## Features implemented
 
 1. **Feature Update: Multiple documents upload.**
 
-    **Reasoning**: To be able to work with multiple documents and in the future to edit(add/delete) document's stack for one's chatbot context the **data_folder** has been created to provide a single connection to all the documents. 
+    **Reasoning**: To be able to work with multiple documents and in the future to edit(add/delete) document's stack for one's chatbot context the **data_folder** has been created to provide a single connection to all the documents.
 
 2. **Feature Update: MultiQueryRetriever and Maximal Marginal Relevance (MMR)**
 
