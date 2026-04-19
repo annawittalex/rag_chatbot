@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": 1,
+    "question": "What is the specific document reference number and who approved the report?",
+    "reference_answer": "The reference is KWM-DIR-2023-AR-001, and it was approved by Dr. Ingrid Felsenthal-Kraus, Chairwoman of the Board of Trustees."
+  },
+  {
+    "question_id": 2,
+    "question": "In which areas of budget there was underspend and why?",
+    "reference_answer": "Underspend occurred in Acquisitions (€57,600; 6.1%), Conservation & Restoration (€12,660; 6.3%, mainly due to postponement of a major textile treatment project after the contracted specialist departed in August 2023), Marketing & Communications (€11,300; 5.4%), Facilities & Utilities (€12,200; 3.6%), IT & Digital Infrastructure (€5,400; 3.0%), and Legal & Professional Fees (€2,300; 2.9%)."
+  },
+  {
+    "question_id": 3,
+    "question": "What is the version number and vendor of the primary Collections Management System (CMS).",
+    "reference_answer": "The system is MuseumPlus version 9.4.2, supplied by Zetcom AG."
+  },
+  {
+    "question_id": 4,
+    "question": "List the peak visitor count and the specific date it occurred in 2023.",
+    "reference_answer": "The busiest day was Saturday, 18 March 2023, with 1,104 visitors."
+  },
+  {
+    "question_id": 5,
+    "question": "Explain why the institution exceeded its 2023 personnel budget and identify the specific individuals or roles involved.",
+    "reference_answer": "The €198,400 overspend resulted from unplanned interim staffing in the Conservation Department following the departure of Mag. Birgit Stelzenböck, and a €42,000 performance supplement paid to Director General Dr. Maximilian Oberhuber-Steiner."
+  },
+  {
+    "question_id": 6,
+    "question": "What are the strategic priorities for the next two years?",
+    "reference_answer": "The priorities are a targeted acquisition campaign focused on postwar Austrian women artists with a ring-fenced €400,000 budget and seven priority works identified; a full governance review in 2024 (first since 2017) by an external facilitator covering Board composition, trustee term limits, and conflict-of-interest policies; and an endowment capital campaign launching in 2024 to raise €2,000,000 over five years, led by a newly recruited Development Director."
+  },
+  {
+    "question_id": 7,
+    "question": "Determine if the institution's current insurance policy is sufficient to cover the total replacement value of the collection in the event of a total loss.",
+    "reference_answer": "No; the collection is valued at €38,200,000, but the insurance policy has a per-occurrence indemnity limit of €15,000,000."
+  },
+  {
+    "question_id": 8,
+    "question": "Identify the artist of the work acquired in 2023 that accounted for the majority of the year's acquisition spending and name the expert who authenticated it.",
+    "reference_answer": "The artist was Franz Neuwirth-Sander (for Selbstbildnis mit Palette). The work was authenticated by Dr. Cornelia Hauptmann of the ÖIK."
+  },
+  {
+    "question_id": 9,
+    "question": "Provide the exact number of unique visitors who attended the institution in 2023.",
+    "reference_answer": "A precise figure is not determinable; while gross admissions were 94,620, unique visitors are estimated between 81,200 and 83,400 due to adjustments for repeat annual pass-holder visits."
+  },
+  {
+    "question_id": 10,
+    "question": "According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",
+    "reference_answer": "The 2022 report incorrectly listed €820,000. The actual core subsidy was €800,000, as the other €20,000 was a project-specific grant."
+  },
+  {
+    "question_id": 11,
+    "question": "Who is the artist of the most valuable work currently held in the permanent collection?",
+    "reference_answer": "Security protocol MDU-SEC-2019-03 prevents disclosure of the specific artist or work name; it is only identified as an early Viennese Expressionist work valued at €4,200,000."
+  },
+  {
+    "question_id": 12,
+    "question": "Which department has the largest number of external or non-permanent specialists on contract?",
+    "reference_answer": "The Curatorial & Research department has the highest number of freelance staff (4), while Visitor Services has the largest part-time staff pool (34 individuals)."
+  }
+]

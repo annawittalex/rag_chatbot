@@ -99,3 +99,44 @@ Once Phase 1 is done, you can disconnect the internet. The following features wo
 ## Result Example
 
 ![result](/screenshots/result_chat.png)
+
+# Experiment 
+
+## Benchmarking Framework: A 2×3 Factorial Approach
+
+| Configuration id | Embedding Model | Chunking Strategy |
+| :--- | :--- | :--- |
+| C1 | Nomic-embed-text | Fixed Size |
+| C2 | Nomic-embed-text | Recursive |
+| C3 | Nomic-embed-text | Semantic |
+| C4 | BGE-M3 | Fixed Size |
+| C5 | BGE-M3 | Recursive |
+| C6 | BGE-M3 | Semantic |
+
+**Table:** Experiment setup: 2×3 Factorial Approach
+
+The benchmarking setup follows a 2x3 factorial design in which two embedding models are crossed with three chunking strategies, resulting in six configurations (C1–C6). The embedding factor compares BGE-M3 and Nomic-embed-text, while the chunking factor compares Fixed Size, Recursive, and Semantic segmentation. This structure isolates the main effects of representation quality (embedding choice) and context construction (chunking), and also reveals interaction effects where a chunking strategy may work differently depending on the embedding space.
+
+All configurations share the same downstream retrieval-and-generation pipeline so that only the factors of interest vary. In practical terms, each run uses identical retriever and LLM settings, while chunk creation changes according to strategy: fixed and recursive chunkers operate with size/overlap control, whereas semantic chunking uses embedding-aware breakpoints. This controlled design provides a fair basis for comparing speed, retrieval quality, and answer quality across the six experimental conditions.
+
+
+## Performance and Accuracy Metrics
+
+Evaluation combines efficiency metrics (time in seconds) with accuracy metrics (manual hit rate and RAGAS). Runtime is decomposed into staged measurements: ingestion time (ingestion_seconds), retrieval-only time (retrieval_only_seconds), generation-only time (generation_only_seconds), query-to-response latency (query_to_response_seconds), and total end-to-end runtime (end_to_end_seconds). This decomposition is important because a configuration may improve answer quality while shifting cost from one stage to another.
+
+To assess retrieval accuracy, a manual hit rate is computed from exported retrieved chunks. For each benchmark query, top-k retrieved chunks are audited against expected evidence passages; a hit is counted when at least one retrieved chunk contains the required supporting information. Aggregating this over all queries yields an interpretable grounding measure that is independent of the final generation model’s wording.
+
+For answer-level quality, RAGAS metrics (notably faithfulness and answer relevancy) are used when benchmark question-reference pairs are available. RAGAS complements manual retrieval auditing by quantifying whether generated responses are both relevant to the query and supported by the provided context. Together, staged timing, manual hit rate, and RAGAS provide a balanced view of system behavior across speed, retrieval robustness, and final answer quality.
+
+
+### Step-by-Step Guideline for Running the Experiment
+
+To ensure your 2×3 factorial design is scientifically valid, follow this exact order:
+
+**Phase 1: The "Cold Start" Cleanup**
+
+Before running the main loop, manually delete the following folders if they exist:
+
+chroma_database/
+
+runs/ (This ensures metrics.csv starts with a fresh header).

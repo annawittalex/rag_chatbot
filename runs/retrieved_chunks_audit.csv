@@ -1,1044 +1,1917 @@
-run_id,question,rank,source,file_path,file_hash,content
-209a88b218ac,What are these documents about?,1,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"Technische Rahmenbedingungen
+run_id,config_id,question_id,question,rank,source,file_path,file_hash,content
+476700a407c3,C1,1,What is the specific document reference number and who approved the report?,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"This document is the property of Kunsthaus Wien— Stiftung für Europäische Kunst und Kulturerbe. All rights reserved. Unauthorised reproduction or disclosure is prohibited. © Kunsthaus Wien 2024.
 
-Programmiersprache: Java 17 oder höher
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 25 of 25"
+476700a407c3,C1,1,What is the specific document reference number and who approved the report?,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Access to the CMS is role-based and governed by the Data Access Policy (ref. KWM-IT-DAP- 2021-001). Full access (read/write across all modules) is restricted to Dr. Yuki Nakamura- Stein (Head of Digital & Collections Management) and Mag. Andrea Zehetgruber (Head of Finance & Administration). Curatorial staff have read/write access to collection and loan records but not to financial or personnel modules. Conservation staff have read/write access to condition records only. All external users, including statutory auditors, are granted temporary read-only access for defined audit periods only.
 
-Build-Tool: Maven
+8.2 Website and Digital Engagement"
+476700a407c3,C1,1,What is the specific document reference number and who approved the report?,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The five most valuable individual works in the collection, based on current insurance valuation, are not identified by name in this report in accordance with security protocol MDU-SEC-2019- 03 approved by the Board. However, it is noted for governance purposes that the single most valuable work in the collection carries an individual insurance valuation of €4,200,000 and belongs to the early Viennese Expressionist period.
 
-User Interface: Web - Javalin, Spring Boot o.a. oder Swing
+3.2 Acquisitions in 2023
 
-Datenbank: sqlite
+The Acquisitions Committee, chaired by Trustee Mag. Renata Prohászka-Weiss and comprising Dr. Sonja Riegler-Bauer (Chief Curator), Prof. Günter Blauensteinbach (Trustee), and two external advisors, met on four occasions in 2023: 16 February, 12 May, 7 September, and 3 November. The Committee reviewed a total of 31 acquisition proposals and approved eight purchases and one donation acceptance."
+476700a407c3,C1,1,What is the specific document reference number and who approved the report?,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Of the surveyed visitors, 38.4% were Vienna residents (postcode prefix 1XXX), 14.2% were Austrian residents from outside Vienna, 21.7% were German-speaking visitors from Germany and Switzerland, 11.3% were visitors from other EU member states, and 14.4% were international visitors from outside the EU. The largest non-German-speaking nationality groups were Italian (3.2%), Czech (2.8%), and American (2.1%). First-time visitors accounted for 61.3% of surveyed respondents, while repeat visitors (those who had attended at least once in the previous twelve months) accounted for 38.7%.
 
-JSON-Verarbeitung: Jackson
+The age distribution of surveyed visitors showed a concentration in the 35–54 age bracket, which accounted for 41.2% of respondents. Visitors aged 18–34 represented 22.8%, those aged 55–69 represented 24.6%, and those aged 70 and above represented 8.1%. Visitors under 18 are tracked separately through group booking records and accounted for 3.3% of total attendance, primarily through organised school visits."
+476700a407c3,C1,1,What is the specific document reference number and who approved the report?,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Second, the institution will undertake a full governance review in 2024, the first since 2017, to be conducted by external facilitator Dr. Monika Ehrenfeld-Strasser of Ehrenfeld Consulting (Vienna). The review will examine Board composition, trustee term limits, the delegation of authority matrix, and conflicts of interest policy. The engagement has been budgeted at €28,000 and will conclude with a written report to the Board no later than 30 September 2024."
+476700a407c3,C1,1,What is the specific document reference number and who approved the report?,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Patron, Innsbruck
 
-REST-Framework: Javalin oder Spring Boot (embedded)
+2013
 
-Testframeworks: JUnit 5, Mockito
+Annex D — Document Control
 
-5. Abnahmekriterien
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 24 of 25
 
-Das System ist abnahmereif, wenn:
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-Alle funktionalen Anforderungen implementiert und getestet sind
+Document Reference: KWM-DIR-2023-AR-001. Version: 1.2 (Final). Prepared by: Office of the Director General with contributions from all department heads. Reviewed by: Mag. Andrea Zehetgruber (Finance), Mag. Gerhard Praxmarer (Legal). Approved by: Dr. Ingrid Felsenthal- Kraus, Chairwoman of the Board of Trustees. Approval date: 27 February 2024. Distribution: Board of Trustees (5 copies), Director General (1 copy), Department Heads (8 copies), Statutory Auditor (1 copy). Total copies in circulation: 15. All copies are numbered and their circulation is logged in the Document Control Register maintained by the Director's Office."
+476700a407c3,C1,1,What is the specific document reference number and who approved the report?,7,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"9.4 Correction to 2022 Annual Report
 
-Die Testabdeckung mindestens 80% beträgt
+It is noted for the record that the 2022 Annual Report (ref. KWM-DIR-2022-AR-001, published March 2023) contained an error in Section 6.1, where the Federal Chancellery Kunstsektion subsidy was reported as €820,000. The correct figure was €800,000. The €20,000 discrepancy arose from a misclassification of a project-specific grant from the Kunstsektion (ref. BKAMT-2022-KWM-PRJ-007, value €20,000) as core subsidy income rather than project income. This correction has been noted in the 2023 accounts and the 2022 comparative figures in this report reflect the corrected amounts.
 
-Keine kritischen Bugs bekannt sind
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 21 of 25
 
-Eine Benutzerdokumentation vorhanden ist
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-Der Code den vereinbarten Coding-Standards entspricht"
-209a88b218ac,What are these documents about?,2,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"TaskFlow - Anforderungsspezifikation
+10. Personnel Report and Remuneration
 
-1. Produktübersicht
+10.1 Senior Management Remuneration"
+c32da3f6e2df,C1,2,In which areas of budget there was underspend and why?,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"9.4 Correction to 2022 Annual Report
 
-TaskFlow ist ein Task-Management-System, das es Benutzern ermöglicht, persönliche Aufgaben zu verwalten. Das System bietet sowohl eine lokale Datenspeicherung als auch einen Zugriff (zur Synchronisation) über eine
+It is noted for the record that the 2022 Annual Report (ref. KWM-DIR-2022-AR-001, published March 2023) contained an error in Section 6.1, where the Federal Chancellery Kunstsektion subsidy was reported as €820,000. The correct figure was €800,000. The €20,000 discrepancy arose from a misclassification of a project-specific grant from the Kunstsektion (ref. BKAMT-2022-KWM-PRJ-007, value €20,000) as core subsidy income rather than project income. This correction has been noted in the 2023 accounts and the 2022 comparative figures in this report reflect the corrected amounts.
 
-REST-API an. TaskFlow wird hauptsächlich in Firmen eingesetzt und dient als Arbeitsmittel für die
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 21 of 25
 
-MitabeiterInnen, um ihre persönlichen Aufgaben zu planen. 2. Funktionale Anforderungen
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-2.1 Aufgabenverwaltung
+10. Personnel Report and Remuneration
 
-Das System muss es Benutzern ermöglichen, Aufgaben zu erstellen, die einen Titel, eine optionale
+10.1 Senior Management Remuneration"
+c32da3f6e2df,C1,2,In which areas of budget there was underspend and why?,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 8 of 25
 
-Beschreibung, eine Priorität (NIEDRIG, MITTEL, HOCH) und ein optionales Fälligkeitsdatum enthalten. Jede
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-Aufgabe erhält automatisch eine eindeutige ID und einen Zeitstempel der Erstellung. Benutzer müssen in der Lage sein, existierende Aufgaben zu bearbeiten und dabei alle Attribute außer der ID
+budgeted allocation of €200,000. The underspend was primarily attributable to the postponement of one major treatment project (KWM-1994-017, a large textile-based work) from Q4 2023 to Q1 2024 following the unexpected departure of the contracted textile conservator, Mag. Birgit Stelzenböck, in August 2023. A replacement contractor has been engaged as of January 2024.
 
-und dem Erstellungszeitpunkt zu ändern. Das System muss eine Funktion zur Löschung von Aufgaben
+3.4 Provenance Review and Restitution
 
-bereitstellen, wobei eine Bestätigung erforderlich ist. Der Status einer Aufgabe kann zwischen OFFEN, IN_BEARBEITUNG und ABGESCHLOSSEN gewechselt werden. Bei Statusänderungen wird automatisch ein Zeitstempel gespeichert. 2.2 Aufgabenansicht und Filterung
+Kunsthaus Wien has maintained an active provenance research programme since 2003, consistent with the Washington Principles on Nazi-Confiscated Art (1998) and the Terezin Declaration (2009), to which the Republic of Austria is a signatory. In 2023, the provenance research team, comprising Dr. Sonja Riegler-Bauer and external researcher Dr. Pavel Schwartz-Horowitz, completed reviews of 23 works with incomplete interwar provenance chains."
+c32da3f6e2df,C1,2,In which areas of budget there was underspend and why?,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"3.3 Conservation Status of Permanent Collection
 
-Das System muss eine Listenansicht aller Aufgaben bereitstellen, die standardmäßig nach Priorität und dann
+The Conservation Department, under the direction of Dipl.-Rest. Klaus Hammerauer, conducted condition assessments of 89 works during 2023, representing 21.6% of the total collection. Priority was given to works scheduled for the 2024 and 2025 exhibition programmes and to works flagged in the previous assessment cycle as requiring monitoring. Conservation condition ratings follow the institution's five-tier internal scale: Excellent (E), Good (G), Fair (F), Poor (P), and Critical (C)."
+c32da3f6e2df,C1,2,In which areas of budget there was underspend and why?,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Furthermore, school groups are recorded at the point of guided tour commencement, not at point of ticket sale. In instances where a school group visits both the temporary and permanent exhibition spaces within a single visit, the group is counted once, not twice. This practice differs from the methodology used by some peer institutions, which count exhibition-level visits rather than person-level visits. Readers comparing KWM statistics to those of peer institutions should be aware of this methodological difference.
 
-nach Fälligkeitsdatum sortiert ist. Benutzer können Aufgaben nach verschiedenen Kriterien filtern: Status,
+9.4 Correction to 2022 Annual Report"
+c32da3f6e2df,C1,2,In which areas of budget there was underspend and why?,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"6.2 Expenditure Summary
 
-Priorität, Fälligkeitsdatum (überfällig, heute, diese Woche) und Suchbegriffe im Titel oder in der Beschreibung. Eine Detailansicht für einzelne Aufgaben muss alle Informationen inklusive der Historie von Statusänderungen
+Total operating expenditure for 2023 was €5,917,340, compared to a budgeted figure of €5,680,000, representing an overspend of €237,340 or 4.2%. The primary driver of the overspend was personnel costs, which exceeded budget by €198,400 due to unplanned interim staffing in the Conservation Department following the departure of Mag. Birgit Stelzenböck, and the payment of a discretionary performance supplement of €42,000 to the Director General approved by the Board in June 2023. A secondary overspend of €67,200 occurred in exhibition production costs, attributable to the higher-than-anticipated insurance premium for the Budapest loans.
 
-anzeigen. Das System soll eine Statistikübersicht bereitstellen, die die Anzahl der Aufgaben pro Status und die
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 15 of 25
 
-Anzahl überfälliger Aufgaben zeigt. 2.3 Datenpersistierung
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-Alle Aufgaben werden in einer Sqlite Datenbank gespeichert. Das System muss beim Start automatisch die
+Expenditure Category
 
-gespeicherten Daten laden und bei jeder Änderung die Daten aktualisieren. Eine Backup-Funktion soll die
+Budget 2023 (€)
 
-aktuelle Datenbasis in eine separate JSON Datei mit Zeitstempel exportieren können. 2.4 REST-API Integration
+Actual 2023 (€)
 
-Das System startet auch einen eingebetteten HTTP-Server, der eine REST-API bereitstellt. Die API muss
+Variance (€)
 
-folgende Endpunkte unterstützen:
+Variance (%)
 
-GET /api/tasks - Alle Aufgaben abrufen
+Personnel costs (salaries & benefits)
 
-GET /api/tasks/{id} - Einzelne Aufgabe abrufen
+3,120,000
 
-POST /api/tasks - Neue Aufgabe erstellen
+3,318,400
 
-PUT /api/tasks/{id} - Aufgabe aktualisieren
++198,400
 
-DELETE /api/tasks/{id} - Aufgabe löschen
++6.4%
 
-GET /api/tasks/stats - Statistiken abrufen
+Exhibition production & installation"
+c32da3f6e2df,C1,2,In which areas of budget there was underspend and why?,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Low
 
-Die API muss JSON als Datenformat verwenden und entsprechende HTTP-Statuscodes zurückgeben. 2.5 Benachrichtigungen
+High
 
-Das System soll beim Start prüfen, ob Aufgaben überfällig sind oder heute fällig werden, und diese in einer
+Role-based access; annual IT security audit
 
-speziellen Ansicht hervorheben."
-209a88b218ac,What are these documents about?,3,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"Optional kann eine Desktop-Benachrichtigung für überfällige Aufgaben
+RISK- 006
 
-angezeigt werden. 2.6 Einschränkungen
+Failure to fill Development Director role
 
-Eine Benutzerverwaltung ist optional. Alle Benutzer können ohne Anmeldung auf die Anwendung zugreifen. 3. Nicht-funktionale Anforderungen
+Medium
 
-3.1 Benutzerfreundlichkeit
+High
 
-Das Userinterface soll selbsterklärend und intuitiv verwendbar sein. Fehlermeldungen müssen klar und
+Extended search; interim fundraising consultant
 
-hilfreich sein, mit Hinweisen zur korrekten Verwendung. 3.2 Performance
+RISK- 007
 
-Das System muss in der Lage sein, mindestens 100.000 Aufgaben ohne merkliche Verzögerung zu verwalten. Die Startzeit der Anwendung darf 2 Sekunden nicht überschreiten. Filteroperationen müssen innerhalb von
+Art market softening affects donation values
 
-100ms Ergebnisse liefern. 3.3 Zuverlässigkeit
+High
 
-Das System muss robust gegen fehlerhafte Eingaben sein und darf bei ungültigen Befehlen nicht abstürzen. Die Datenspeicherung muss so erfolgen, dass bei Abbrüchen keine Datenverluste entstehen. Eine hohe
+Medium Maintain donor relationships;
 
-Verfügbarkeit>99% muss gegeben sein, da kritische Aufgaben mit der Anwendung geplant werden. 3.4 Wartbarkeit
+planned giving programme
 
-Der Code muss modular aufgebaut sein mit klarer Trennung zwischen den implementierten Schichten
+9.3 Note on Visitor Data Interpretation"
+c32da3f6e2df,C1,2,In which areas of budget there was underspend and why?,7,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The 2023 programme was the third year of execution under this strategy and demonstrated strong alignment with all three pillars. Secession Echoes addressed the first and third pillars through its scholarly reappraisal of Secessionist influence and its collaboration with the Charles University Prague. Farbe und Stille addressed the second pillar through its focus on women painters active in the postwar Austrian and Czechoslovak art scenes. The permanent collection galleries underwent a partial rehang in July 2023, with twelve works rotated to storage and eight previously stored works brought to display, increasing the proportion of works by women artists in the permanent display from 18.3% to 24.7%.
 
-aufweisen (Präsentation, Daten, Logik ...). Eine Testabdeckung von mindestens 80% für die Geschäftslogik ist
+5.2 Loan Agreements and Inter-Institutional Exchanges"
+c32da3f6e2df,C1,2,In which areas of budget there was underspend and why?,8,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"It is noted for the record that a claim was made under this policy in February 2023 following minor water damage to two works in the storage facility caused by a burst pipe during the January cold snap. The claim was settled in June 2023 for €14,700 net of the policy deductible of €2,500. The damaged works, KWM-1987-022 and KWM-2001-008, have been fully restored by the Conservation Department and returned to the collection.
 
-anzustreben. 3.5 Implementierung
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 18 of 25
 
-Es stehen zwei Varianten zur Verfügung:
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-Variante 1: Implementierung als Webanwendung (Spring o.ä.)
+8. Digital Infrastructure and Collections Management
 
-Variante 2: Implementierung als Desktop Anwendung (Swing)
+8.1 Collections Management System"
+af77c49f6dd6,C1,3,What is the version number and vendor of the primary Collections Management System (CMS).,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-3.6 Portabilität
+8. Digital Infrastructure and Collections Management
 
-Variante 1: Das System muss auf Firefox, Chrome und Safari lauffähig sein. Variante 2: Das System muss auf Windows, Linux und macOS lauffähig sein. 4."
-9ea41cfc5077,What are these documents about?,1,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"TaskFlow - Anforderungsspezifikation
+8.1 Collections Management System
 
-1. Produktübersicht
+The institution operates MuseumPlus (version 9.4.2, supplied by Zetcom AG, Switzerland) as its primary Collections Management System (CMS). The system holds records for all 412 works in the permanent collection, all 34 active material contracts, the full loan register, and the conservation assessment archive. As of 31 December 2023, 94.7% of collection records have been fully digitised with high-resolution imaging (minimum 50 megapixels per work). The remaining 22 works awaiting full digitisation are scheduled for imaging in Q1 2024 as part of the Digital Completeness Project initiated in October 2023 and budgeted at €18,400."
+af77c49f6dd6,C1,3,What is the version number and vendor of the primary Collections Management System (CMS).,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"This document is the property of Kunsthaus Wien— Stiftung für Europäische Kunst und Kulturerbe. All rights reserved. Unauthorised reproduction or disclosure is prohibited. © Kunsthaus Wien 2024.
 
-TaskFlow ist ein Task-Management-System, das es Benutzern ermöglicht, persönliche Aufgaben zu verwalten. Das System bietet sowohl eine lokale Datenspeicherung als auch einen Zugriff (zur Synchronisation) über eine
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 25 of 25"
+af77c49f6dd6,C1,3,What is the version number and vendor of the primary Collections Management System (CMS).,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Access to the CMS is role-based and governed by the Data Access Policy (ref. KWM-IT-DAP- 2021-001). Full access (read/write across all modules) is restricted to Dr. Yuki Nakamura- Stein (Head of Digital & Collections Management) and Mag. Andrea Zehetgruber (Head of Finance & Administration). Curatorial staff have read/write access to collection and loan records but not to financial or personnel modules. Conservation staff have read/write access to condition records only. All external users, including statutory auditors, are granted temporary read-only access for defined audit periods only.
 
-REST-API an. TaskFlow wird hauptsächlich in Firmen eingesetzt und dient als Arbeitsmittel für die
+8.2 Website and Digital Engagement"
+af77c49f6dd6,C1,3,What is the version number and vendor of the primary Collections Management System (CMS).,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Low
 
-MitabeiterInnen, um ihre persönlichen Aufgaben zu planen. 2. Funktionale Anforderungen
+High
 
-2.1 Aufgabenverwaltung
+Role-based access; annual IT security audit
 
-Das System muss es Benutzern ermöglichen, Aufgaben zu erstellen, die einen Titel, eine optionale
+RISK- 006
 
-Beschreibung, eine Priorität (NIEDRIG, MITTEL, HOCH) und ein optionales Fälligkeitsdatum enthalten. Jede
+Failure to fill Development Director role
 
-Aufgabe erhält automatisch eine eindeutige ID und einen Zeitstempel der Erstellung. Benutzer müssen in der Lage sein, existierende Aufgaben zu bearbeiten und dabei alle Attribute außer der ID
+Medium
 
-und dem Erstellungszeitpunkt zu ändern. Das System muss eine Funktion zur Löschung von Aufgaben
+High
 
-bereitstellen, wobei eine Bestätigung erforderlich ist. Der Status einer Aufgabe kann zwischen OFFEN, IN_BEARBEITUNG und ABGESCHLOSSEN gewechselt werden. Bei Statusänderungen wird automatisch ein Zeitstempel gespeichert. 2.2 Aufgabenansicht und Filterung
+Extended search; interim fundraising consultant
 
-Das System muss eine Listenansicht aller Aufgaben bereitstellen, die standardmäßig nach Priorität und dann
+RISK- 007
 
-nach Fälligkeitsdatum sortiert ist. Benutzer können Aufgaben nach verschiedenen Kriterien filtern: Status,
+Art market softening affects donation values
 
-Priorität, Fälligkeitsdatum (überfällig, heute, diese Woche) und Suchbegriffe im Titel oder in der Beschreibung. Eine Detailansicht für einzelne Aufgaben muss alle Informationen inklusive der Historie von Statusänderungen
+High
 
-anzeigen. Das System soll eine Statistikübersicht bereitstellen, die die Anzahl der Aufgaben pro Status und die
+Medium Maintain donor relationships;
 
-Anzahl überfälliger Aufgaben zeigt. 2.3 Datenpersistierung
+planned giving programme
 
-Alle Aufgaben werden in einer Sqlite Datenbank gespeichert. Das System muss beim Start automatisch die
+9.3 Note on Visitor Data Interpretation"
+af77c49f6dd6,C1,3,What is the version number and vendor of the primary Collections Management System (CMS).,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"4.2 Visitor Demographics and Origins
 
-gespeicherten Daten laden und bei jeder Änderung die Daten aktualisieren. Eine Backup-Funktion soll die
+Visitor origin data is collected through voluntary post-visit surveys administered via digital kiosk at the museum exit and through the ticketing system's optional postcode field. In 2023, usable demographic data was collected for 31,840 visitors, representing 33.6% of total attendance. The institution acknowledges that this sample is self-selected and may not be fully representative of the total visitor population; however, it is consistent with the methodology used in previous years and therefore permits year-on-year trend comparison."
+a7c2b7247633,C1,4,List the peak visitor count and the specific date it occurred in 2023.,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The month of March 2023 recorded the highest single-month attendance of the year, with 12,847 visitors, driven primarily by the opening of the Secession Echoes retrospective on 4 March and sustained weekend footfall throughout the exhibition's first four weeks. The lowest month was January 2023, with 3,912 visitors (apart from December 2023 when the institution was closed to the public from 16 to 31), consistent with the institution's historically weak January performance attributable to post-holiday visitor fatigue and the absence of a major temporary exhibition during that period."
+a7c2b7247633,C1,4,List the peak visitor count and the specific date it occurred in 2023.,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 9 of 25
 
-aktuelle Datenbasis in eine separate JSON Datei mit Zeitstempel exportieren können. 2.4 REST-API Integration
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-Das System startet auch einen eingebetteten HTTP-Server, der eine REST-API bereitstellt. Die API muss
+4. Visitor Statistics and Audience Development
 
-folgende Endpunkte unterstützen:
+4.1 Annual Footfall Summary
 
-GET /api/tasks - Alle Aufgaben abrufen
+Total recorded visitor attendance at Kunsthaus Wien in 2023 reached 94,620, representing an increase of 7.1% over the 2022 figure of 88,370 and surpassing the pre-pandemic record of 88,340 visitors recorded in 2019. This figure encompasses all ticketed admissions, group bookings, school visits, guided tour participants, and holders of annual membership passes. It does not include attendees at private vernissage events, board meetings, or institutional functions held outside public opening hours."
+a7c2b7247633,C1,4,List the peak visitor count and the specific date it occurred in 2023.,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The busiest single day of 2023 was Saturday, 18 March 2023, on which 1,104 visitors were recorded, coinciding with a weekend midpoint in the Secession Echoes run and particularly favourable weather conditions. The second busiest day was Saturday, 25 March 2023, with 1,087 visitors. The third busiest was Saturday, 14 October 2023, with 1,019 visitors, during the opening weekend of the Farbe und Stille exhibition.
 
-GET /api/tasks/{id} - Einzelne Aufgabe abrufen
+Month
 
-POST /api/tasks - Neue Aufgabe erstellen
+Total Visitors
 
-PUT /api/tasks/{id} - Aufgabe aktualisieren
+Avg. Daily
 
-DELETE /api/tasks/{id} - Aufgabe löschen
+Peak Day
 
-GET /api/tasks/stats - Statistiken abrufen
+Peak Day Count
 
-Die API muss JSON als Datenformat verwenden und entsprechende HTTP-Statuscodes zurückgeben. 2.5 Benachrichtigungen
+Primary Driver
 
-Das System soll beim Start prüfen, ob Aufgaben überfällig sind oder heute fällig werden, und diese in einer
+January 2023
 
-speziellen Ansicht hervorheben."
-9ea41cfc5077,What are these documents about?,2,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"Optional kann eine Desktop-Benachrichtigung für überfällige Aufgaben
+3,912
 
-angezeigt werden. 2.6 Einschränkungen
+126
 
-Eine Benutzerverwaltung ist optional. Alle Benutzer können ohne Anmeldung auf die Anwendung zugreifen. 3. Nicht-funktionale Anforderungen
+Sat 21 Jan
 
-3.1 Benutzerfreundlichkeit
+312
 
-Das Userinterface soll selbsterklärend und intuitiv verwendbar sein. Fehlermeldungen müssen klar und
+Permanent collection only
 
-hilfreich sein, mit Hinweisen zur korrekten Verwendung. 3.2 Performance
+February 2023
 
-Das System muss in der Lage sein, mindestens 100.000 Aufgaben ohne merkliche Verzögerung zu verwalten. Die Startzeit der Anwendung darf 2 Sekunden nicht überschreiten. Filteroperationen müssen innerhalb von
+5,841
 
-100ms Ergebnisse liefern. 3.3 Zuverlässigkeit
+209
 
-Das System muss robust gegen fehlerhafte Eingaben sein und darf bei ungültigen Befehlen nicht abstürzen. Die Datenspeicherung muss so erfolgen, dass bei Abbrüchen keine Datenverluste entstehen. Eine hohe
+Sat 25 Feb
 
-Verfügbarkeit>99% muss gegeben sein, da kritische Aufgaben mit der Anwendung geplant werden. 3.4 Wartbarkeit
+487
 
-Der Code muss modular aufgebaut sein mit klarer Trennung zwischen den implementierten Schichten
+Permanent collection + school visits
 
-aufweisen (Präsentation, Daten, Logik ...). Eine Testabdeckung von mindestens 80% für die Geschäftslogik ist
+March 2023
 
-anzustreben. 3.5 Implementierung
+12,847
 
-Es stehen zwei Varianten zur Verfügung:
+414
 
-Variante 1: Implementierung als Webanwendung (Spring o.ä.)
+Sat 18 Mar
 
-Variante 2: Implementierung als Desktop Anwendung (Swing)
+1,104
 
-3.6 Portabilität
+Secession Echoes opening
 
-Variante 1: Das System muss auf Firefox, Chrome und Safari lauffähig sein. Variante 2: Das System muss auf Windows, Linux und macOS lauffähig sein."
-9ea41cfc5077,What are these documents about?,3,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"4. Technische Rahmenbedingungen
+April 2023
 
-Programmiersprache: Java 17 oder höher
+11,203
 
-Build-Tool: Maven
+374
 
-User Interface: Web - Javalin, Spring Boot o.a. oder Swing
+Sat 08 Apr
 
-Datenbank: sqlite
+924
 
-JSON-Verarbeitung: Jackson
+Secession Echoes (peak)
 
-REST-Framework: Javalin oder Spring Boot (embedded)
+May 2023
 
-Testframeworks: JUnit 5, Mockito
+10,112
 
-5. Abnahmekriterien
+326
 
-Das System ist abnahmereif, wenn:
+Sat 06 May
 
-Alle funktionalen Anforderungen implementiert und getestet sind
+871
 
-Die Testabdeckung mindestens 80% beträgt
+Secession Echoes (closing weeks)
 
-Keine kritischen Bugs bekannt sind
+June 2023
 
-Eine Benutzerdokumentation vorhanden ist
+7,440
 
-Der Code den vereinbarten Coding-Standards entspricht"
-93d88484477f,What are these documents about?,1,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"und dem Erstellungszeitpunkt zu ändern. Das System muss eine Funktion zur Löschung von Aufgaben
+248
 
-bereitstellen, wobei eine Bestätigung erforderlich ist.
+Sat 10 Jun
 
-Der Status einer Aufgabe kann zwischen OFFEN, IN_BEARBEITUNG und ABGESCHLOSSEN gewechselt werden.
+603
 
-Bei Statusänderungen wird automatisch ein Zeitstempel gespeichert.
+Post-exhibition transition
 
-2.2 Aufgabenansicht und Filterung
+July 2023
 
-Das System muss eine Listenansicht aller Aufgaben bereitstellen, die standardmäßig nach Priorität und dann
+7,981
 
-nach Fälligkeitsdatum sortiert ist. Benutzer können Aufgaben nach verschiedenen Kriterien filtern: Status,
+257
 
-Priorität, Fälligkeitsdatum (überfällig, heute, diese Woche) und Suchbegriffe im Titel oder in der Beschreibung.
+Sat 15 Jul
 
-Eine Detailansicht für einzelne Aufgaben muss alle Informationen inklusive der Historie von Statusänderungen
+698
 
-anzeigen. Das System soll eine Statistikübersicht bereitstellen, die die Anzahl der Aufgaben pro Status und die
+Summer tourism season
 
-Anzahl überfälliger Aufgaben zeigt.
+August 2023"
+a7c2b7247633,C1,4,List the peak visitor count and the specific date it occurred in 2023.,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 3 of 25
 
-2.3 Datenpersistierung"
-93d88484477f,What are these documents about?,2,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"anzustreben.
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-3.5 Implementierung
+1. Director General's Foreword
 
-Es stehen zwei Varianten zur Verfügung:
+The year 2023 marked a period of remarkable transformation and consolidation for Kunsthaus Wien. Under the continued stewardship of the Board of Trustees and with the tireless dedication of our 87 permanent staff members and 34 part-time associates, we achieved a record-breaking institutional performance that exceeded nearly every measurable target set in our 2021–2025 Strategic Plan."
+a7c2b7247633,C1,4,List the peak visitor count and the specific date it occurred in 2023.,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"7.2 Key Contracts Active in 2023 ................................................................................. 17
 
-Variante 1: Implementierung als Webanwendung (Spring o.ä.)
+7.3 Insurance ............................................................................................................. 18
 
-Variante 2: Implementierung als Desktop Anwendung (Swing)
+8. Digital Infrastructure and Collections Management ........................................ 19
 
-3.6 Portabilität
+8.1 Collections Management System .......................................................................... 19
 
-Variante 1: Das System muss auf Firefox, Chrome und Safari lauffähig sein.
+8.2 Website and Digital Engagement ........................................................................... 19
 
-Variante 2: Das System muss auf Windows, Linux und macOS lauffähig sein.
+9. Strategic Outlook and Risk Register ............................................................... 20
 
-4. Technische Rahmenbedingungen
+9.1 Strategic Priorities for 2024–2025 .......................................................................... 20
 
-Programmiersprache: Java 17 oder höher
+9.2 Risk Register (Selected Material Risks) .................................................................. 20"
+3092ce1e3283,C1,5,Explain why the institution exceeded its 2023 personnel budget and identify the specific individuals or roles involved.,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 3 of 25
 
-Build-Tool: Maven
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-User Interface: Web - Javalin, Spring Boot o.a. oder Swing
+1. Director General's Foreword
 
-Datenbank: sqlite
+The year 2023 marked a period of remarkable transformation and consolidation for Kunsthaus Wien. Under the continued stewardship of the Board of Trustees and with the tireless dedication of our 87 permanent staff members and 34 part-time associates, we achieved a record-breaking institutional performance that exceeded nearly every measurable target set in our 2021–2025 Strategic Plan."
+3092ce1e3283,C1,5,Explain why the institution exceeded its 2023 personnel budget and identify the specific individuals or roles involved.,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"6.2 Expenditure Summary
 
-JSON-Verarbeitung: Jackson
+Total operating expenditure for 2023 was €5,917,340, compared to a budgeted figure of €5,680,000, representing an overspend of €237,340 or 4.2%. The primary driver of the overspend was personnel costs, which exceeded budget by €198,400 due to unplanned interim staffing in the Conservation Department following the departure of Mag. Birgit Stelzenböck, and the payment of a discretionary performance supplement of €42,000 to the Director General approved by the Board in June 2023. A secondary overspend of €67,200 occurred in exhibition production costs, attributable to the higher-than-anticipated insurance premium for the Budapest loans.
 
-REST-Framework: Javalin oder Spring Boot (embedded)
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 15 of 25
 
-Testframeworks: JUnit 5, Mockito
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-5. Abnahmekriterien
+Expenditure Category
 
-Das System ist abnahmereif, wenn:
+Budget 2023 (€)
 
-Alle funktionalen Anforderungen implementiert und getestet sind
+Actual 2023 (€)
 
-Die Testabdeckung mindestens 80% beträgt
+Variance (€)
 
-Keine kritischen Bugs bekannt sind
+Variance (%)
 
-Eine Benutzerdokumentation vorhanden ist
+Personnel costs (salaries & benefits)
 
-Der Code den vereinbarten Coding-Standards entspricht"
-93d88484477f,What are these documents about?,3,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"TaskFlow - Anforderungsspezifikation
+3,120,000
 
-1. Produktübersicht
+3,318,400
 
-TaskFlow ist ein Task-Management-System, das es Benutzern ermöglicht, persönliche Aufgaben zu verwalten.
++198,400
 
-Das System bietet sowohl eine lokale Datenspeicherung als auch einen Zugriff (zur Synchronisation) über eine
++6.4%
 
-REST-API an. TaskFlow wird hauptsächlich in Firmen eingesetzt und dient als Arbeitsmittel für die
+Exhibition production & installation"
+3092ce1e3283,C1,5,Explain why the institution exceeded its 2023 personnel budget and identify the specific individuals or roles involved.,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Third, and strategically most significant, the institution will formally launch a capital campaign in 2024 targeting a €2,000,000 increase in the endowment over a five-year horizon. The campaign will be led by a newly appointed Development Director, a role approved by the Board in October 2023 and currently in the final stages of recruitment. The shortlisted candidates are Mag. Florian Weidinger-Holub (currently Head of Development at the Vienna Philharmonic Foundation) and Dr. Brigitte Samuels-Baumann (currently Director of Philanthropy at the Kunsthistorisches Museum). A final decision is expected by 15 February 2024.
 
-MitabeiterInnen, um ihre persönlichen Aufgaben zu planen.
+9.2 Risk Register (Selected Material Risks)
 
-2. Funktionale Anforderungen
+The following represents a selected summary of the institution's material risks as assessed by management for the 2023 Annual Risk Review. The full risk register (ref. KWM-RISK-2023- 001) contains 27 identified risks across six categories. The Board Risk Committee reviewed the full register at its meeting of 7 November 2023."
+3092ce1e3283,C1,5,Explain why the institution exceeded its 2023 personnel budget and identify the specific individuals or roles involved.,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Our Director General, Dr. Maximilian Oberhuber-Steiner, assumed the post in January 2022 following the retirement of his predecessor, Dr. Eleonore Vásárhelyi, and has since led the institution through two major exhibition cycles, one significant acquisition campaign, and a complete overhaul of our digital infrastructure. This report covers the full fiscal year from 1 January to 31 December 2023 and represents the most comprehensive institutional self- assessment Kunsthaus Wien has produced in its thirty-one-year history."
+3092ce1e3283,C1,5,Explain why the institution exceeded its 2023 personnel budget and identify the specific individuals or roles involved.,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 22 of 25
 
-2.1 Aufgabenverwaltung
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-Das System muss es Benutzern ermöglichen, Aufgaben zu erstellen, die einen Titel, eine optionale
+Seven new permanent positions were filled in 2023, including two replacements for departures and five positions approved in the 2023 budget as part of the institution's controlled growth plan. The average time-to-fill for permanent positions was 98 days from vacancy declaration to start date, compared to a sector benchmark of approximately 75–85 days. The longer-than- benchmark time-to-fill reflects the specialised nature of the institution's roles and its non- negotiable requirement that all new staff demonstrate German-language proficiency at minimum B2 level.
 
-Beschreibung, eine Priorität (NIEDRIG, MITTEL, HOCH) und ein optionales Fälligkeitsdatum enthalten. Jede
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 23 of 25
 
-Aufgabe erhält automatisch eine eindeutige ID und einen Zeitstempel der Erstellung.
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-Benutzer müssen in der Lage sein, existierende Aufgaben zu bearbeiten und dabei alle Attribute außer der ID
+Annexes
 
-und dem Erstellungszeitpunkt zu ändern. Das System muss eine Funktion zur Löschung von Aufgaben"
-93d88484477f,What are these documents about?,4,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"anzeigen. Das System soll eine Statistikübersicht bereitstellen, die die Anzahl der Aufgaben pro Status und die
+Annex A — Glossary of Internal Reference Codes"
+3092ce1e3283,C1,5,Explain why the institution exceeded its 2023 personnel budget and identify the specific individuals or roles involved.,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"From a financial perspective, the institution closed the year with total operating revenue of €6,284,500, against total expenditure of €5,917,340, yielding a modest but strategically meaningful surplus of €367,160. This surplus has been allocated in full to the Conservation Reserve Fund, consistent with the Board resolution of March 2023. The institution received public funding from the City of Vienna's Kulturabteilung (MA 7) in the amount of €2,100,000 and from the Austrian Federal Chancellery's Kunstsektion in the amount of €850,000, totalling €2,950,000 in public subsidy, which represented 46.9% of total operating revenue."
+0ed88ce7f410,C1,6,What are the strategic priorities for the next two years?,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-Anzahl überfälliger Aufgaben zeigt.
+9. Strategic Outlook and Risk Register
 
-2.3 Datenpersistierung
+9.1 Strategic Priorities for 2024–2025
 
-Alle Aufgaben werden in einer Sqlite Datenbank gespeichert. Das System muss beim Start automatisch die
+The final two years of the 2021–2025 Strategic Plan will be characterised by consolidation, evaluation, and preparation for the next planning cycle. Three strategic priorities have been identified by the Director General and endorsed by the Board at the December 2023 meeting."
+0ed88ce7f410,C1,6,What are the strategic priorities for the next two years?,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"2.2 Governance Structure
 
-gespeicherten Daten laden und bei jeder Änderung die Daten aktualisieren. Eine Backup-Funktion soll die
+The institution is governed by a three-tier structure comprising the Board of Trustees (Stiftungsvorstand), the Advisory Council (Beirat), and the operational Directorate. The Board of Trustees holds ultimate fiduciary responsibility and consists of five members appointed for staggered four-year terms. As of 31 December 2023, the Board composition is as follows:
 
-aktuelle Datenbasis in eine separate JSON Datei mit Zeitstempel exportieren können.
+Name
 
-2.4 REST-API Integration
+Role
 
-Das System startet auch einen eingebetteten HTTP-Server, der eine REST-API bereitstellt. Die API muss
+Term Expires
 
-folgende Endpunkte unterstützen:
+Committee
 
-GET /api/tasks - Alle Aufgaben abrufen
+Dr. Ingrid Felsenthal-Kraus
 
-GET /api/tasks/{id} - Einzelne Aufgabe abrufen
+Chairwoman
 
-POST /api/tasks - Neue Aufgabe erstellen
+March 2026
 
-PUT /api/tasks/{id} - Aufgabe aktualisieren
+Executive, Acquisitions
 
-DELETE /api/tasks/{id} - Aufgabe löschen
+Prof. Günter Blauensteinbach
 
-GET /api/tasks/stats - Statistiken abrufen
+Vice-Chairman
 
-Die API muss JSON als Datenformat verwenden und entsprechende HTTP-Statuscodes zurückgeben."
-93d88484477f,What are these documents about?,5,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"DELETE /api/tasks/{id} - Aufgabe löschen
+March 2025
 
-GET /api/tasks/stats - Statistiken abrufen
+Finance, Audit
 
-Die API muss JSON als Datenformat verwenden und entsprechende HTTP-Statuscodes zurückgeben.
+Mag. Renata Prohászka-Weiss
 
-2.5 Benachrichtigungen
+Trustee
 
-Das System soll beim Start prüfen, ob Aufgaben überfällig sind oder heute fällig werden, und diese in einer
+March 2027
 
-speziellen Ansicht hervorheben. Optional kann eine Desktop-Benachrichtigung für überfällige Aufgaben
+Acquisitions, HR
 
-angezeigt werden.
+Dr. Thomas Arleth
 
-2.6 Einschränkungen
+Trustee
 
-Eine Benutzerverwaltung ist optional. Alle Benutzer können ohne Anmeldung auf die Anwendung zugreifen.
+March 2025
 
-3. Nicht-funktionale Anforderungen
+Finance, Legal
 
-3.1 Benutzerfreundlichkeit
+Dipl.-Ing. Sofia Mäkinen-Huber
 
-Das Userinterface soll selbsterklärend und intuitiv verwendbar sein. Fehlermeldungen müssen klar und
+Trustee
 
-hilfreich sein, mit Hinweisen zur korrekten Verwendung.
+March 2026
 
-3.2 Performance
+Facilities, Digital"
+0ed88ce7f410,C1,6,What are the strategic priorities for the next two years?,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"First, the institution will pursue a targeted acquisition campaign in the area of postwar Austrian women artists, for which the Acquisitions Committee has pre-approved a ring-fenced budget of €400,000 drawn from the Conservation Reserve Fund pending a formal Board resolution expected in March 2024. Dr. Riegler-Bauer has identified seven priority works across five artists whose estates or existing owners have expressed willingness to negotiate. The most significant target is a large-format triptych by Herta Kronauer-Weiß (1928–2004), currently in a private collection in Graz, which is estimated to be available for purchase at between €150,000 and €220,000."
+0ed88ce7f410,C1,6,What are the strategic priorities for the next two years?,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Low
 
-Das System muss in der Lage sein, mindestens 100.000 Aufgaben ohne merkliche Verzögerung zu verwalten."
-9061a34e92cc,What are these documents about?,1,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"und dem Erstellungszeitpunkt zu ändern. Das System muss eine Funktion zur Löschung von Aufgaben
+High
 
-bereitstellen, wobei eine Bestätigung erforderlich ist.
+Role-based access; annual IT security audit
 
-Der Status einer Aufgabe kann zwischen OFFEN, IN_BEARBEITUNG und ABGESCHLOSSEN gewechselt werden.
+RISK- 006
 
-Bei Statusänderungen wird automatisch ein Zeitstempel gespeichert.
+Failure to fill Development Director role
 
-2.2 Aufgabenansicht und Filterung
+Medium
 
-Das System muss eine Listenansicht aller Aufgaben bereitstellen, die standardmäßig nach Priorität und dann
+High
 
-nach Fälligkeitsdatum sortiert ist. Benutzer können Aufgaben nach verschiedenen Kriterien filtern: Status,
+Extended search; interim fundraising consultant
 
-Priorität, Fälligkeitsdatum (überfällig, heute, diese Woche) und Suchbegriffe im Titel oder in der Beschreibung.
+RISK- 007
 
-Eine Detailansicht für einzelne Aufgaben muss alle Informationen inklusive der Historie von Statusänderungen
+Art market softening affects donation values
 
-anzeigen. Das System soll eine Statistikübersicht bereitstellen, die die Anzahl der Aufgaben pro Status und die
+High
 
-Anzahl überfälliger Aufgaben zeigt.
+Medium Maintain donor relationships;
 
-2.3 Datenpersistierung"
-9061a34e92cc,What are these documents about?,2,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"anzustreben.
+planned giving programme
 
-3.5 Implementierung
+9.3 Note on Visitor Data Interpretation"
+0ed88ce7f410,C1,6,What are the strategic priorities for the next two years?,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Annexes ........................................................................................................... 24
 
-Es stehen zwei Varianten zur Verfügung:
+Annex A — Glossary of Internal Reference Codes ........................................................ 24
 
-Variante 1: Implementierung als Webanwendung (Spring o.ä.)
+Annex B — Currency and Valuation Notes ................................................................... 24
 
-Variante 2: Implementierung als Desktop Anwendung (Swing)
+Annex C — Advisory Council Members (as of 31 December 2023) ................................. 24
 
-3.6 Portabilität
+Annex D — Document Control .................................................................................... 24
 
-Variante 1: Das System muss auf Firefox, Chrome und Safari lauffähig sein.
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 3 of 25
 
-Variante 2: Das System muss auf Windows, Linux und macOS lauffähig sein.
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-4. Technische Rahmenbedingungen
+1. Director General's Foreword"
+0ed88ce7f410,C1,6,What are the strategic priorities for the next two years?,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"From a financial perspective, the institution closed the year with total operating revenue of €6,284,500, against total expenditure of €5,917,340, yielding a modest but strategically meaningful surplus of €367,160. This surplus has been allocated in full to the Conservation Reserve Fund, consistent with the Board resolution of March 2023. The institution received public funding from the City of Vienna's Kulturabteilung (MA 7) in the amount of €2,100,000 and from the Austrian Federal Chancellery's Kunstsektion in the amount of €850,000, totalling €2,950,000 in public subsidy, which represented 46.9% of total operating revenue."
+dab5f3a2b4ee,C1,7,Determine if the institution's current insurance policy is sufficient to cover the total replacement value of the collection in the event of a total loss.,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The three incoming loans are governed by the lending institution's own agreement templates and have been reviewed by the institution's legal counsel, Mag. Gerhard Praxmarer of Praxmarer Rechtsanwälte GmbH (Vienna). The most significant incoming loan is a group of four drawings attributed to Egon Schiele (collection of the Szépművészeti Múzeum Budapest, inventory numbers SZM-GR-1934-0041 through 0044), loaned for the Secession Echoes exhibition under agreement ref. SZM-LOAN-2023-KWM-01, governed by Hungarian law, with insurance coverage provided by the Szépművészeti Múzeum under its own institutional policy with Allianz Hungária. Kunsthaus Wien assumed no insurance liability for these works during transit or display.
 
-Programmiersprache: Java 17 oder höher
+5.3 Planned 2024 Programme"
+dab5f3a2b4ee,C1,7,Determine if the institution's current insurance policy is sufficient to cover the total replacement value of the collection in the event of a total loss.,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Jul 2023 – Dec 2024
 
-Build-Tool: Maven
+€400,000 (lump sum paid)
 
-User Interface: Web - Javalin, Spring Boot o.a. oder Swing
+Swiss law
 
-Datenbank: sqlite
+KWM-CNTR- 2023-019
 
-JSON-Verarbeitung: Jackson
+Verlag Anton Schroll & Co.
 
-REST-Framework: Javalin oder Spring Boot (embedded)
+Catalogue co- publication
 
-Testframeworks: JUnit 5, Mockito
+Mar–Dec 2023
 
-5. Abnahmekriterien
+€50,000 (subsidy)
 
-Das System ist abnahmereif, wenn:
+Austrian law
 
-Alle funktionalen Anforderungen implementiert und getestet sind
+7.3 Insurance
 
-Die Testabdeckung mindestens 80% beträgt
+The collection is insured under a fine art block policy with Zürich Insurance plc (Austrian branch) under policy number ZUR-AT-FA-2019-00443, which has been in force since 1 January 2019 and was renewed for a further three-year term effective 1 January 2023 at an annual premium of €143,200. The policy provides all-risks cover (nail-to-nail) for owned works and, where specified in the schedule, for works on loan to the institution from third parties. The policy limit of indemnity per occurrence is €15,000,000 and the aggregate annual limit is €30,000,000. The current declared collection value of €38,200,000 exceeds the per- occurrence limit, and the institution has accepted this gap risk as commercially reasonable following advice from its insurance broker, Marsh GmbH (Vienna office)."
+dab5f3a2b4ee,C1,7,Determine if the institution's current insurance policy is sufficient to cover the total replacement value of the collection in the event of a total loss.,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The institution is registered with the Vienna Commercial Court (Handelsgericht Wien) under registration number FN 189234 p. Its registered office is located at Marxergasse 17, 1030 Wien, Austria. The foundation's purpose, as defined in Article 2 of its Founding Deed (Stiftungsurkunde), is the permanent preservation, scholarly study, public exhibition, and responsible acquisition of works of European fine art, with a particular emphasis on Central European painting, works on paper, and decorative arts from the period 1880 to 1980.
 
-Keine kritischen Bugs bekannt sind
+The institution is not a public body and receives no guaranteed public funding, although it has maintained an ongoing subsidy relationship with both the City of Vienna and the Federal Republic of Austria since 1997. The foundation's charitable status (Gemeinnützigkeit) is confirmed annually by the Tax Authority Vienna (Finanzamt Wien), most recently by determination dated 14 March 2023, reference number FA23-2023-GN-00441.
 
-Eine Benutzerdokumentation vorhanden ist
+2.2 Governance Structure"
+dab5f3a2b4ee,C1,7,Determine if the institution's current insurance policy is sufficient to cover the total replacement value of the collection in the event of a total loss.,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The Conservation Reserve Fund, established by Board resolution in 2019 and maintained as a designated reserve within the institution's accounts (not part of the endowment), received the full 2023 operating surplus of €367,160 and stood at €841,200 at year-end. This fund is designated exclusively for extraordinary conservation expenditure, defined in the reserve's governing policy as individual treatment projects exceeding €20,000 per work. Disbursements from this fund require Acquisitions Committee approval and Director General sign-off.
 
-Der Code den vereinbarten Coding-Standards entspricht"
-9061a34e92cc,What are these documents about?,3,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"TaskFlow - Anforderungsspezifikation
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 16 of 25
 
-1. Produktübersicht
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-TaskFlow ist ein Task-Management-System, das es Benutzern ermöglicht, persönliche Aufgaben zu verwalten.
+7. Legal Affairs and Material Contracts
 
-Das System bietet sowohl eine lokale Datenspeicherung als auch einen Zugriff (zur Synchronisation) über eine
+7.1 Legal Counsel Arrangements"
+dab5f3a2b4ee,C1,7,Determine if the institution's current insurance policy is sufficient to cover the total replacement value of the collection in the event of a total loss.,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"As a result of this review, two works were identified as having been subject to forced sale or confiscation during the National Socialist period. Following negotiations conducted through the Austrian Commission for Provenance Research (Kommission für Provenienzforschung), an agreement was reached with the legal heirs of Dr. Felix Goldberger-Haas, represented by attorney Mag. Claudia Feldkirchner (Vienna) on behalf of the Goldberger-Haas Family Foundation (registered in Zurich). The two works — KWM-1997-011 and KWM-1997-014, both acquired by the institution at auction in Vienna in 1997 — were formally transferred to the heirs on 12 September 2023. No financial consideration was paid; the transfer was effected as a full restitution. The institution recorded a write-down of €210,000 against the collection valuation for these two works, which had carried a combined insurance value of €210,000 based on the 2020 appraisal.
 
-REST-API an. TaskFlow wird hauptsächlich in Firmen eingesetzt und dient als Arbeitsmittel für die
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 9 of 25"
+4ebeabc213dd,C1,8,Identify the artist of the work acquired in 2023 that accounted for the majority of the year's acquisition spending and name the expert who authenticated it.,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Total acquisition expenditure in 2023 amounted to €892,400, against a budgeted figure of €950,000, representing an underspend of €57,600 or 6.1%. Three acquisitions were made at auction (Dorotheum Vienna and Ketterer Kunst Hamburg), four through private gallery transactions, and one directly from the artist's estate. The donation was accepted from the estate of Frau Hildegard Sonnenschein-Alber, a long-standing patron of the institution.
 
-MitabeiterInnen, um ihre persönlichen Aufgaben zu planen.
+Accession No.
 
-2. Funktionale Anforderungen
+Artist (Attributed)
 
-2.1 Aufgabenverwaltung
+Title
 
-Das System muss es Benutzern ermöglichen, Aufgaben zu erstellen, die einen Titel, eine optionale
+Medium
 
-Beschreibung, eine Priorität (NIEDRIG, MITTEL, HOCH) und ein optionales Fälligkeitsdatum enthalten. Jede
+Year
 
-Aufgabe erhält automatisch eine eindeutige ID und einen Zeitstempel der Erstellung.
+Source
 
-Benutzer müssen in der Lage sein, existierende Aufgaben zu bearbeiten und dabei alle Attribute außer der ID
+KWM- 2023-001
 
-und dem Erstellungszeitpunkt zu ändern. Das System muss eine Funktion zur Löschung von Aufgaben"
-9061a34e92cc,What are these documents about?,4,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"anzeigen. Das System soll eine Statistikübersicht bereitstellen, die die Anzahl der Aufgaben pro Status und die
+Gertrude Falkenbach (1891–1954)
 
-Anzahl überfälliger Aufgaben zeigt.
+Fensterblick mit Topfpflanzen
 
-2.3 Datenpersistierung
+Oil on canvas
 
-Alle Aufgaben werden in einer Sqlite Datenbank gespeichert. Das System muss beim Start automatisch die
+1924
 
-gespeicherten Daten laden und bei jeder Änderung die Daten aktualisieren. Eine Backup-Funktion soll die
+Dorotheum, April 2023
 
-aktuelle Datenbasis in eine separate JSON Datei mit Zeitstempel exportieren können.
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 7 of 25
 
-2.4 REST-API Integration
+Acquisition Cost
 
-Das System startet auch einen eingebetteten HTTP-Server, der eine REST-API bereitstellt. Die API muss
+€74,500
 
-folgende Endpunkte unterstützen:
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-GET /api/tasks - Alle Aufgaben abrufen
+Accession No.
 
-GET /api/tasks/{id} - Einzelne Aufgabe abrufen
+Artist (Attributed)
 
-POST /api/tasks - Neue Aufgabe erstellen
+Title
 
-PUT /api/tasks/{id} - Aufgabe aktualisieren
+Medium
 
-DELETE /api/tasks/{id} - Aufgabe löschen
+Year
 
-GET /api/tasks/stats - Statistiken abrufen
+Source
 
-Die API muss JSON als Datenformat verwenden und entsprechende HTTP-Statuscodes zurückgeben."
-9061a34e92cc,What are these documents about?,5,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"DELETE /api/tasks/{id} - Aufgabe löschen
+Acquisition Cost
 
-GET /api/tasks/stats - Statistiken abrufen
+KWM- 2023-002
 
-Die API muss JSON als Datenformat verwenden und entsprechende HTTP-Statuscodes zurückgeben.
+Rudolf Szymański- Koch (1878– 1941)
 
-2.5 Benachrichtigungen
+Untitled (Harbour Study)
 
-Das System soll beim Start prüfen, ob Aufgaben überfällig sind oder heute fällig werden, und diese in einer
+Watercolour on paper
 
-speziellen Ansicht hervorheben. Optional kann eine Desktop-Benachrichtigung für überfällige Aufgaben
+c.1912 Private gallery"
+4ebeabc213dd,C1,8,Identify the artist of the work acquired in 2023 that accounted for the majority of the year's acquisition spending and name the expert who authenticated it.,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 6 of 25
 
-angezeigt werden.
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-2.6 Einschränkungen
+3. Permanent Collection Report
 
-Eine Benutzerverwaltung ist optional. Alle Benutzer können ohne Anmeldung auf die Anwendung zugreifen.
+3.1 Collection Overview
 
-3. Nicht-funktionale Anforderungen
+The permanent collection of Kunsthaus Wien comprises 412 works as of 31 December 2023, encompassing oil paintings, works on paper, sculpture, photography, and selected decorative art objects. The collection spans the period from approximately 1875 to 1979, with the highest density of holdings concentrated in the Viennese Secession and its immediate aftermath (1897–1930), the interwar Neue Sachlichkeit movement as it manifested in Central Europe, and the postwar Austrian avant-garde of the 1950s and 1960s."
+4ebeabc213dd,C1,8,Identify the artist of the work acquired in 2023 that accounted for the majority of the year's acquisition spending and name the expert who authenticated it.,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Specialist legal advice on intellectual property, image rights, and reproduction licensing is provided on an ad hoc basis by Dr. Theresa Wimmer-Holzmann (sole practitioner, Vienna), who has advised the institution since 2016. Dr. Wimmer-Holzmann's 2023 engagements related primarily to the negotiation of image licensing terms for the Secession Echoes catalogue and an ongoing dispute with a German online platform that reproduced a high- resolution image of a work in the permanent collection without authorisation. That dispute was resolved in October 2023 by way of an out-of-court settlement in the amount of €8,400 paid to the institution, of which 30% (€2,520) was remitted to the artist's estate under the institution's standard reproduction fee-sharing policy.
 
-3.1 Benutzerfreundlichkeit
+7.2 Key Contracts Active in 2023"
+4ebeabc213dd,C1,8,Identify the artist of the work acquired in 2023 that accounted for the majority of the year's acquisition spending and name the expert who authenticated it.,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The month of March 2023 recorded the highest single-month attendance of the year, with 12,847 visitors, driven primarily by the opening of the Secession Echoes retrospective on 4 March and sustained weekend footfall throughout the exhibition's first four weeks. The lowest month was January 2023, with 3,912 visitors (apart from December 2023 when the institution was closed to the public from 16 to 31), consistent with the institution's historically weak January performance attributable to post-holiday visitor fatigue and the absence of a major temporary exhibition during that period."
+4ebeabc213dd,C1,8,Identify the artist of the work acquired in 2023 that accounted for the majority of the year's acquisition spending and name the expert who authenticated it.,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The institution is registered with the Vienna Commercial Court (Handelsgericht Wien) under registration number FN 189234 p. Its registered office is located at Marxergasse 17, 1030 Wien, Austria. The foundation's purpose, as defined in Article 2 of its Founding Deed (Stiftungsurkunde), is the permanent preservation, scholarly study, public exhibition, and responsible acquisition of works of European fine art, with a particular emphasis on Central European painting, works on paper, and decorative arts from the period 1880 to 1980.
 
-Das Userinterface soll selbsterklärend und intuitiv verwendbar sein. Fehlermeldungen müssen klar und
+The institution is not a public body and receives no guaranteed public funding, although it has maintained an ongoing subsidy relationship with both the City of Vienna and the Federal Republic of Austria since 1997. The foundation's charitable status (Gemeinnützigkeit) is confirmed annually by the Tax Authority Vienna (Finanzamt Wien), most recently by determination dated 14 March 2023, reference number FA23-2023-GN-00441.
 
-hilfreich sein, mit Hinweisen zur korrekten Verwendung.
+2.2 Governance Structure"
+4ebeabc213dd,C1,8,Identify the artist of the work acquired in 2023 that accounted for the majority of the year's acquisition spending and name the expert who authenticated it.,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-3.2 Performance
+5. Exhibition Programme and Curatorial Activity
 
-Das System muss in der Lage sein, mindestens 100.000 Aufgaben ohne merkliche Verzögerung zu verwalten."
-769949885125,What are these documents about?,1,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"anzeigen. Das System soll eine Statistikübersicht bereitstellen, die die Anzahl der Aufgaben pro Status und die
+5.1 Curatorial Philosophy and 2023 Programme Overview
 
-Anzahl überfälliger Aufgaben zeigt.
+The curatorial direction of Kunsthaus Wien is governed by the five-year Exhibition Strategy 2021–2025, approved by the Board of Trustees in November 2020 (resolution KWM-BOARD- 2020-11-R03). The strategy prioritises three thematic pillars: the recontextualisation of canonical Central European modernism through contemporary scholarly perspectives; the amplification of historically underrepresented voices within the Central European art tradition, with particular emphasis on women artists and artists from successor states of the Austro- Hungarian Empire; and the fostering of cross-institutional dialogue through co-curated and travelling exhibitions with partner institutions."
+4ebeabc213dd,C1,8,Identify the artist of the work acquired in 2023 that accounted for the majority of the year's acquisition spending and name the expert who authenticated it.,7,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"4.2 Visitor Demographics and Origins
 
-2.3 Datenpersistierung
+Visitor origin data is collected through voluntary post-visit surveys administered via digital kiosk at the museum exit and through the ticketing system's optional postcode field. In 2023, usable demographic data was collected for 31,840 visitors, representing 33.6% of total attendance. The institution acknowledges that this sample is self-selected and may not be fully representative of the total visitor population; however, it is consistent with the methodology used in previous years and therefore permits year-on-year trend comparison."
+beedbb6d64c3,C1,9,Provide the exact number of unique visitors who attended the institution in 2023.,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Of the surveyed visitors, 38.4% were Vienna residents (postcode prefix 1XXX), 14.2% were Austrian residents from outside Vienna, 21.7% were German-speaking visitors from Germany and Switzerland, 11.3% were visitors from other EU member states, and 14.4% were international visitors from outside the EU. The largest non-German-speaking nationality groups were Italian (3.2%), Czech (2.8%), and American (2.1%). First-time visitors accounted for 61.3% of surveyed respondents, while repeat visitors (those who had attended at least once in the previous twelve months) accounted for 38.7%.
 
-Alle Aufgaben werden in einer Sqlite Datenbank gespeichert. Das System muss beim Start automatisch die
+The age distribution of surveyed visitors showed a concentration in the 35–54 age bracket, which accounted for 41.2% of respondents. Visitors aged 18–34 represented 22.8%, those aged 55–69 represented 24.6%, and those aged 70 and above represented 8.1%. Visitors under 18 are tracked separately through group booking records and accounted for 3.3% of total attendance, primarily through organised school visits."
+beedbb6d64c3,C1,9,Provide the exact number of unique visitors who attended the institution in 2023.,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The month of March 2023 recorded the highest single-month attendance of the year, with 12,847 visitors, driven primarily by the opening of the Secession Echoes retrospective on 4 March and sustained weekend footfall throughout the exhibition's first four weeks. The lowest month was January 2023, with 3,912 visitors (apart from December 2023 when the institution was closed to the public from 16 to 31), consistent with the institution's historically weak January performance attributable to post-holiday visitor fatigue and the absence of a major temporary exhibition during that period."
+beedbb6d64c3,C1,9,Provide the exact number of unique visitors who attended the institution in 2023.,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Furthermore, school groups are recorded at the point of guided tour commencement, not at point of ticket sale. In instances where a school group visits both the temporary and permanent exhibition spaces within a single visit, the group is counted once, not twice. This practice differs from the methodology used by some peer institutions, which count exhibition-level visits rather than person-level visits. Readers comparing KWM statistics to those of peer institutions should be aware of this methodological difference.
 
-gespeicherten Daten laden und bei jeder Änderung die Daten aktualisieren. Eine Backup-Funktion soll die
+9.4 Correction to 2022 Annual Report"
+beedbb6d64c3,C1,9,Provide the exact number of unique visitors who attended the institution in 2023.,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Our Director General, Dr. Maximilian Oberhuber-Steiner, assumed the post in January 2022 following the retirement of his predecessor, Dr. Eleonore Vásárhelyi, and has since led the institution through two major exhibition cycles, one significant acquisition campaign, and a complete overhaul of our digital infrastructure. This report covers the full fiscal year from 1 January to 31 December 2023 and represents the most comprehensive institutional self- assessment Kunsthaus Wien has produced in its thirty-one-year history."
+beedbb6d64c3,C1,9,Provide the exact number of unique visitors who attended the institution in 2023.,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 9 of 25
 
-aktuelle Datenbasis in eine separate JSON Datei mit Zeitstempel exportieren können.
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-2.4 REST-API Integration
+4. Visitor Statistics and Audience Development
 
-Das System startet auch einen eingebetteten HTTP-Server, der eine REST-API bereitstellt. Die API muss
+4.1 Annual Footfall Summary
 
-folgende Endpunkte unterstützen:
+Total recorded visitor attendance at Kunsthaus Wien in 2023 reached 94,620, representing an increase of 7.1% over the 2022 figure of 88,370 and surpassing the pre-pandemic record of 88,340 visitors recorded in 2019. This figure encompasses all ticketed admissions, group bookings, school visits, guided tour participants, and holders of annual membership passes. It does not include attendees at private vernissage events, board meetings, or institutional functions held outside public opening hours."
+beedbb6d64c3,C1,9,Provide the exact number of unique visitors who attended the institution in 2023.,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"8.2 Website and Digital Engagement
 
-GET /api/tasks - Alle Aufgaben abrufen
+The institutional website (www.kunsthauswien.at) recorded 487,200 unique visitors in 2023, an increase of 23.4% over the 2022 figure of 394,800. The increase is attributable primarily to the international press coverage of the Secession Echoes exhibition, which generated significant inbound traffic from German-language media. The institution's online ticketing system, integrated with the website since the 2021 infrastructure refresh, processed 18,340 ticket transactions in 2023, representing 19.4% of total paid admissions. The remaining 80.6% of admissions were purchased at the physical ticket desk."
+beedbb6d64c3,C1,9,Provide the exact number of unique visitors who attended the institution in 2023.,7,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"4.2 Visitor Demographics and Origins
 
-GET /api/tasks/{id} - Einzelne Aufgabe abrufen
+Visitor origin data is collected through voluntary post-visit surveys administered via digital kiosk at the museum exit and through the ticketing system's optional postcode field. In 2023, usable demographic data was collected for 31,840 visitors, representing 33.6% of total attendance. The institution acknowledges that this sample is self-selected and may not be fully representative of the total visitor population; however, it is consistent with the methodology used in previous years and therefore permits year-on-year trend comparison."
+d5776e81fb4b,C1,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"2.1 Founding History and Legal Status ......................................................................... 5
 
-POST /api/tasks - Neue Aufgabe erstellen
+2.2 Governance Structure ........................................................................................... 5
 
-PUT /api/tasks/{id} - Aufgabe aktualisieren
+2.3 Staff Overview ....................................................................................................... 5
 
-DELETE /api/tasks/{id} - Aufgabe löschen
+3. Permanent Collection Report .......................................................................... 7
 
-GET /api/tasks/stats - Statistiken abrufen
+3.1 Collection Overview .............................................................................................. 7
 
-Die API muss JSON als Datenformat verwenden und entsprechende HTTP-Statuscodes zurückgeben."
-769949885125,What are these documents about?,2,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"TaskFlow - Anforderungsspezifikation
+3.2 Acquisitions in 2023 ............................................................................................... 7
 
-1. Produktübersicht
+3.3 Conservation Status of Permanent Collection ........................................................ 8
 
-TaskFlow ist ein Task-Management-System, das es Benutzern ermöglicht, persönliche Aufgaben zu verwalten.
+3.4 Provenance Review and Restitution ....................................................................... 9"
+d5776e81fb4b,C1,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"9.4 Correction to 2022 Annual Report
 
-Das System bietet sowohl eine lokale Datenspeicherung als auch einen Zugriff (zur Synchronisation) über eine
+It is noted for the record that the 2022 Annual Report (ref. KWM-DIR-2022-AR-001, published March 2023) contained an error in Section 6.1, where the Federal Chancellery Kunstsektion subsidy was reported as €820,000. The correct figure was €800,000. The €20,000 discrepancy arose from a misclassification of a project-specific grant from the Kunstsektion (ref. BKAMT-2022-KWM-PRJ-007, value €20,000) as core subsidy income rather than project income. This correction has been noted in the 2023 accounts and the 2022 comparative figures in this report reflect the corrected amounts.
 
-REST-API an. TaskFlow wird hauptsächlich in Firmen eingesetzt und dient als Arbeitsmittel für die
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 21 of 25
 
-MitabeiterInnen, um ihre persönlichen Aufgaben zu planen.
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-2. Funktionale Anforderungen
+10. Personnel Report and Remuneration
 
-2.1 Aufgabenverwaltung
+10.1 Senior Management Remuneration"
+d5776e81fb4b,C1,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Specialist legal advice on intellectual property, image rights, and reproduction licensing is provided on an ad hoc basis by Dr. Theresa Wimmer-Holzmann (sole practitioner, Vienna), who has advised the institution since 2016. Dr. Wimmer-Holzmann's 2023 engagements related primarily to the negotiation of image licensing terms for the Secession Echoes catalogue and an ongoing dispute with a German online platform that reproduced a high- resolution image of a work in the permanent collection without authorisation. That dispute was resolved in October 2023 by way of an out-of-court settlement in the amount of €8,400 paid to the institution, of which 30% (€2,520) was remitted to the artist's estate under the institution's standard reproduction fee-sharing policy.
 
-Das System muss es Benutzern ermöglichen, Aufgaben zu erstellen, die einen Titel, eine optionale
+7.2 Key Contracts Active in 2023"
+d5776e81fb4b,C1,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Furthermore, school groups are recorded at the point of guided tour commencement, not at point of ticket sale. In instances where a school group visits both the temporary and permanent exhibition spaces within a single visit, the group is counted once, not twice. This practice differs from the methodology used by some peer institutions, which count exhibition-level visits rather than person-level visits. Readers comparing KWM statistics to those of peer institutions should be aware of this methodological difference.
 
-Beschreibung, eine Priorität (NIEDRIG, MITTEL, HOCH) und ein optionales Fälligkeitsdatum enthalten. Jede
+9.4 Correction to 2022 Annual Report"
+d5776e81fb4b,C1,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Our Director General, Dr. Maximilian Oberhuber-Steiner, assumed the post in January 2022 following the retirement of his predecessor, Dr. Eleonore Vásárhelyi, and has since led the institution through two major exhibition cycles, one significant acquisition campaign, and a complete overhaul of our digital infrastructure. This report covers the full fiscal year from 1 January to 31 December 2023 and represents the most comprehensive institutional self- assessment Kunsthaus Wien has produced in its thirty-one-year history."
+d5776e81fb4b,C1,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"From a financial perspective, the institution closed the year with total operating revenue of €6,284,500, against total expenditure of €5,917,340, yielding a modest but strategically meaningful surplus of €367,160. This surplus has been allocated in full to the Conservation Reserve Fund, consistent with the Board resolution of March 2023. The institution received public funding from the City of Vienna's Kulturabteilung (MA 7) in the amount of €2,100,000 and from the Austrian Federal Chancellery's Kunstsektion in the amount of €850,000, totalling €2,950,000 in public subsidy, which represented 46.9% of total operating revenue."
+d5776e81fb4b,C1,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",7,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-Aufgabe erhält automatisch eine eindeutige ID und einen Zeitstempel der Erstellung.
+KUNSTHAUS WIEN
 
-Benutzer müssen in der Lage sein, existierende Aufgaben zu bearbeiten und dabei alle Attribute außer der ID
+Stiftung für Europäische Kunst und Kulturerbe Foundation for European Art and Cultural Heritage
 
-und dem Erstellungszeitpunkt zu ändern. Das System muss eine Funktion zur Löschung von Aufgaben"
-769949885125,What are these documents about?,3,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"anzustreben.
+ANNUAL INSTITUTIONAL REPORT Fiscal & Exhibition Year 2023
 
-3.5 Implementierung
+STRICTLY CONFIDENTIAL — INTERNAL DOCUMENT Not for external distribution. Classification: Restricted.
 
-Es stehen zwei Varianten zur Verfügung:
+Prepared by: Office of the Director General Reviewed by: Board of Trustees | Dr. Ingrid Felsenthal-Kraus, Chairwoman Document Reference: KWM-DIR-2023-AR-001
 
-Variante 1: Implementierung als Webanwendung (Spring o.ä.)
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 1 of 25
 
-Variante 2: Implementierung als Desktop Anwendung (Swing)
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-3.6 Portabilität
+Table of Contents
 
-Variante 1: Das System muss auf Firefox, Chrome und Safari lauffähig sein.
+1. Director General's Foreword ............................................................................ 4
 
-Variante 2: Das System muss auf Windows, Linux und macOS lauffähig sein.
+2. Institutional Profile and Governance ................................................................ 5
 
-4. Technische Rahmenbedingungen
+2.1 Founding History and Legal Status ......................................................................... 5"
+d5776e81fb4b,C1,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",8,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"incoming
 
-Programmiersprache: Java 17 oder höher
+loans
 
-Build-Tool: Maven
+from
 
-User Interface: Web - Javalin, Spring Boot o.a. oder Swing
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 14 of 25
 
-Datenbank: sqlite
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-JSON-Verarbeitung: Jackson
+6. Financial Report 2023
 
-REST-Framework: Javalin oder Spring Boot (embedded)
+6.1 Revenue Summary
 
-Testframeworks: JUnit 5, Mockito
+Total operating revenue for the fiscal year 2023 amounted to €6,284,500, an increase of 9.4% over the 2022 figure of €5,743,200. Revenue is classified across five primary categories: public funding, earned income, private donations and sponsorship, investment income, and other income. The following table presents the revenue breakdown for 2023 alongside the 2022 comparative and the original 2023 budget.
 
-5. Abnahmekriterien
+Revenue Category
 
-Das System ist abnahmereif, wenn:
+Budget 2023 (€)
 
-Alle funktionalen Anforderungen implementiert und getestet sind
+Actual 2023 (€)
 
-Die Testabdeckung mindestens 80% beträgt
+Actual 2022 (€)
 
-Keine kritischen Bugs bekannt sind
+Variance vs. Budget
 
-Eine Benutzerdokumentation vorhanden ist
+City of Vienna (MA 7) subsidy
 
-Der Code den vereinbarten Coding-Standards entspricht"
-769949885125,What are these documents about?,4,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"hilfreich sein, mit Hinweisen zur korrekten Verwendung.
+2,100,000
 
-3.2 Performance
+2,100,000
 
-Das System muss in der Lage sein, mindestens 100.000 Aufgaben ohne merkliche Verzögerung zu verwalten.
+2,100,000
 
-Die Startzeit der Anwendung darf 2 Sekunden nicht überschreiten. Filteroperationen müssen innerhalb von
+0.0%
 
-100ms Ergebnisse liefern.
+Federal Chancellery Kunstsektion
 
-3.3 Zuverlässigkeit
+850,000
 
-Das System muss robust gegen fehlerhafte Eingaben sein und darf bei ungültigen Befehlen nicht abstürzen.
+850,000
 
-Die Datenspeicherung muss so erfolgen, dass bei Abbrüchen keine Datenverluste entstehen. Eine hohe
+800,000
 
-Verfügbarkeit>99% muss gegeben sein, da kritische Aufgaben mit der Anwendung geplant werden.
++6.3% (prior yr)
 
-3.4 Wartbarkeit
+Ticket revenues
 
-Der Code muss modular aufgebaut sein mit klarer Trennung zwischen den implementierten Schichten
+820,000
 
-aufweisen (Präsentation, Daten, Logik ...). Eine Testabdeckung von mindestens 80% für die Geschäftslogik ist
+934,700
 
-anzustreben.
+821,400
 
-3.5 Implementierung
++14.0%
 
-Es stehen zwei Varianten zur Verfügung:
+Museum shop & catalogue sales
 
-Variante 1: Implementierung als Webanwendung (Spring o.ä.)"
-769949885125,What are these documents about?,5,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"und dem Erstellungszeitpunkt zu ändern. Das System muss eine Funktion zur Löschung von Aufgaben
+180,000
 
-bereitstellen, wobei eine Bestätigung erforderlich ist.
+214,300
 
-Der Status einer Aufgabe kann zwischen OFFEN, IN_BEARBEITUNG und ABGESCHLOSSEN gewechselt werden.
+187,600
 
-Bei Statusänderungen wird automatisch ein Zeitstempel gespeichert.
++19.1%
 
-2.2 Aufgabenansicht und Filterung
+Venue hire & private events"
+f172bf7f0fa5,C1,11,Who is the artist of the most valuable work currently held in the permanent collection?,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The institution is registered with the Vienna Commercial Court (Handelsgericht Wien) under registration number FN 189234 p. Its registered office is located at Marxergasse 17, 1030 Wien, Austria. The foundation's purpose, as defined in Article 2 of its Founding Deed (Stiftungsurkunde), is the permanent preservation, scholarly study, public exhibition, and responsible acquisition of works of European fine art, with a particular emphasis on Central European painting, works on paper, and decorative arts from the period 1880 to 1980.
 
-Das System muss eine Listenansicht aller Aufgaben bereitstellen, die standardmäßig nach Priorität und dann
+The institution is not a public body and receives no guaranteed public funding, although it has maintained an ongoing subsidy relationship with both the City of Vienna and the Federal Republic of Austria since 1997. The foundation's charitable status (Gemeinnützigkeit) is confirmed annually by the Tax Authority Vienna (Finanzamt Wien), most recently by determination dated 14 March 2023, reference number FA23-2023-GN-00441.
 
-nach Fälligkeitsdatum sortiert ist. Benutzer können Aufgaben nach verschiedenen Kriterien filtern: Status,
+2.2 Governance Structure"
+f172bf7f0fa5,C1,11,Who is the artist of the most valuable work currently held in the permanent collection?,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 6 of 25
 
-Priorität, Fälligkeitsdatum (überfällig, heute, diese Woche) und Suchbegriffe im Titel oder in der Beschreibung.
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-Eine Detailansicht für einzelne Aufgaben muss alle Informationen inklusive der Historie von Statusänderungen
+3. Permanent Collection Report
 
-anzeigen. Das System soll eine Statistikübersicht bereitstellen, die die Anzahl der Aufgaben pro Status und die
+3.1 Collection Overview
 
-Anzahl überfälliger Aufgaben zeigt.
+The permanent collection of Kunsthaus Wien comprises 412 works as of 31 December 2023, encompassing oil paintings, works on paper, sculpture, photography, and selected decorative art objects. The collection spans the period from approximately 1875 to 1979, with the highest density of holdings concentrated in the Viennese Secession and its immediate aftermath (1897–1930), the interwar Neue Sachlichkeit movement as it manifested in Central Europe, and the postwar Austrian avant-garde of the 1950s and 1960s."
+f172bf7f0fa5,C1,11,Who is the artist of the most valuable work currently held in the permanent collection?,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"First, the institution will pursue a targeted acquisition campaign in the area of postwar Austrian women artists, for which the Acquisitions Committee has pre-approved a ring-fenced budget of €400,000 drawn from the Conservation Reserve Fund pending a formal Board resolution expected in March 2024. Dr. Riegler-Bauer has identified seven priority works across five artists whose estates or existing owners have expressed willingness to negotiate. The most significant target is a large-format triptych by Herta Kronauer-Weiß (1928–2004), currently in a private collection in Graz, which is estimated to be available for purchase at between €150,000 and €220,000."
+f172bf7f0fa5,C1,11,Who is the artist of the most valuable work currently held in the permanent collection?,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Among the highlights of 2023, we note the successful conclusion of the Secession Echoes retrospective in the spring, which attracted 28,412 visitors over its eleven-week run and became the most attended temporary exhibition in our institutional history. The autumn season brought the equally celebrated dual exhibition Farbe und Stille, co-organised with the Lentos Kunstmuseum Linz, which drew 19,847 visitors between September and November. Total annual footfall reached 94,620 visitors, surpassing the previous record of 88,340 set in 2019."
+f172bf7f0fa5,C1,11,Who is the artist of the most valuable work currently held in the permanent collection?,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The month of March 2023 recorded the highest single-month attendance of the year, with 12,847 visitors, driven primarily by the opening of the Secession Echoes retrospective on 4 March and sustained weekend footfall throughout the exhibition's first four weeks. The lowest month was January 2023, with 3,912 visitors (apart from December 2023 when the institution was closed to the public from 16 to 31), consistent with the institution's historically weak January performance attributable to post-holiday visitor fatigue and the absence of a major temporary exhibition during that period."
+f172bf7f0fa5,C1,11,Who is the artist of the most valuable work currently held in the permanent collection?,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Artist (Attributed)
 
-2.3 Datenpersistierung"
-769949885125,What are these documents about?,6,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"DELETE /api/tasks/{id} - Aufgabe löschen
+Title
 
-GET /api/tasks/stats - Statistiken abrufen
+Medium
 
-Die API muss JSON als Datenformat verwenden und entsprechende HTTP-Statuscodes zurückgeben.
+Year
 
-2.5 Benachrichtigungen
+Source
 
-Das System soll beim Start prüfen, ob Aufgaben überfällig sind oder heute fällig werden, und diese in einer
+Acquisition Cost
 
-speziellen Ansicht hervorheben. Optional kann eine Desktop-Benachrichtigung für überfällige Aufgaben
+KWM- 2023-002
 
-angezeigt werden.
+Rudolf Szymański- Koch (1878– 1941)
 
-2.6 Einschränkungen
+Untitled (Harbour Study)
 
-Eine Benutzerverwaltung ist optional. Alle Benutzer können ohne Anmeldung auf die Anwendung zugreifen.
+Watercolour on paper
 
-3. Nicht-funktionale Anforderungen
+c.1912 Private gallery
 
-3.1 Benutzerfreundlichkeit
+€18,200
 
-Das Userinterface soll selbsterklärend und intuitiv verwendbar sein. Fehlermeldungen müssen klar und
+KWM- 2023-003
 
-hilfreich sein, mit Hinweisen zur korrekten Verwendung.
+Anon. [attr. Vienna, c.1905]
 
-3.2 Performance
+Bildnis einer jungen Frau
 
-Das System muss in der Lage sein, mindestens 100.000 Aufgaben ohne merkliche Verzögerung zu verwalten."
-8640f53789d8,What are these documents about?,1,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"anzeigen. Das System soll eine Statistikübersicht bereitstellen, die die Anzahl der Aufgaben pro Status und die
+Oil on panel
 
-Anzahl überfälliger Aufgaben zeigt.
+c.1905 Private gallery
 
-2.3 Datenpersistierung
+€9,800
 
-Alle Aufgaben werden in einer Sqlite Datenbank gespeichert. Das System muss beim Start automatisch die
+KWM- 2023-004
 
-gespeicherten Daten laden und bei jeder Änderung die Daten aktualisieren. Eine Backup-Funktion soll die
+Heinrich Morawetz (1902–1968)
 
-aktuelle Datenbasis in eine separate JSON Datei mit Zeitstempel exportieren können.
+Komposition in Blau und Ocker
 
-2.4 REST-API Integration
+Mixed media on board
 
-Das System startet auch einen eingebetteten HTTP-Server, der eine REST-API bereitstellt. Die API muss
+1951
 
-folgende Endpunkte unterstützen:
+Artist's estate €31,000
 
-GET /api/tasks - Alle Aufgaben abrufen
+KWM- 2023-005
 
-GET /api/tasks/{id} - Einzelne Aufgabe abrufen
+Emília Bartók- Vásárhelyi (1919–1987)
 
-POST /api/tasks - Neue Aufgabe erstellen
+Stadtrand III
 
-PUT /api/tasks/{id} - Aufgabe aktualisieren
+Lithograph (ed. 7/12)
 
-DELETE /api/tasks/{id} - Aufgabe löschen
+1963
 
-GET /api/tasks/stats - Statistiken abrufen
+Ketterer Kunst, June 2023
 
-Die API muss JSON als Datenformat verwenden und entsprechende HTTP-Statuscodes zurückgeben."
-8640f53789d8,What are these documents about?,2,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"TaskFlow - Anforderungsspezifikation
+€12,400
 
-1. Produktübersicht
+KWM- 2023-006
 
-TaskFlow ist ein Task-Management-System, das es Benutzern ermöglicht, persönliche Aufgaben zu verwalten.
+Leopold Draxler (1888–1945)
 
-Das System bietet sowohl eine lokale Datenspeicherung als auch einen Zugriff (zur Synchronisation) über eine
+Gebirgslandschaft mit Hütte
 
-REST-API an. TaskFlow wird hauptsächlich in Firmen eingesetzt und dient als Arbeitsmittel für die
+Oil on canvas
 
-MitabeiterInnen, um ihre persönlichen Aufgaben zu planen.
+1931
 
-2. Funktionale Anforderungen
+Private gallery
 
-2.1 Aufgabenverwaltung
+€54,000
 
-Das System muss es Benutzern ermöglichen, Aufgaben zu erstellen, die einen Titel, eine optionale
+KWM- 2023-007
 
-Beschreibung, eine Priorität (NIEDRIG, MITTEL, HOCH) und ein optionales Fälligkeitsdatum enthalten. Jede
+Marta Hrušková (1933–2011)
 
-Aufgabe erhält automatisch eine eindeutige ID und einen Zeitstempel der Erstellung.
+Ohne Titel (Rote Serie Nr. 4)
 
-Benutzer müssen in der Lage sein, existierende Aufgaben zu bearbeiten und dabei alle Attribute außer der ID
+Acrylic on canvas
 
-und dem Erstellungszeitpunkt zu ändern. Das System muss eine Funktion zur Löschung von Aufgaben"
-8640f53789d8,What are these documents about?,3,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"anzustreben.
+1974
 
-3.5 Implementierung
+Private gallery
 
-Es stehen zwei Varianten zur Verfügung:
+€28,700
 
-Variante 1: Implementierung als Webanwendung (Spring o.ä.)
+KWM- 2023-008
 
-Variante 2: Implementierung als Desktop Anwendung (Swing)
+Franz Neuwirth- Sander (1897– 1956)
 
-3.6 Portabilität
+Selbstbildnis mit Palette
 
-Variante 1: Das System muss auf Firefox, Chrome und Safari lauffähig sein.
+Oil on canvas
 
-Variante 2: Das System muss auf Windows, Linux und macOS lauffähig sein.
+1938
 
-4. Technische Rahmenbedingungen
+Dorotheum, Oct. 2023
 
-Programmiersprache: Java 17 oder höher
+€663,800
 
-Build-Tool: Maven
+KWM- 2023-009 (donation)"
+b27d50257a5c,C1,12,Which department has the largest number of external or non-permanent specialists on contract?,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"7.2 Key Contracts Active in 2023
 
-User Interface: Web - Javalin, Spring Boot o.a. oder Swing
+The institution maintained 34 active material contracts as of 31 December 2023. Material contracts are defined, for governance purposes, as any contractual commitment with a total value exceeding €10,000 or a duration exceeding 12 months. The following represents a selected summary of the most significant contracts for disclosure purposes. The full contract register (ref. KWM-ADMIN-CTREG-2023) is maintained by Mag. Andrea Zehetgruber and is available for inspection by Trustees and statutory auditors upon written request.
 
-Datenbank: sqlite
+Contract Ref.
 
-JSON-Verarbeitung: Jackson
+Counterparty
 
-REST-Framework: Javalin oder Spring Boot (embedded)
+Subject Matter
 
-Testframeworks: JUnit 5, Mockito
+Term
 
-5. Abnahmekriterien
+Annual Value Governing
 
-Das System ist abnahmereif, wenn:
+Law
 
-Alle funktionalen Anforderungen implementiert und getestet sind
+KWM-CNTR- 2021-017
 
-Die Testabdeckung mindestens 80% beträgt
+Hasenkamp Int. Transporte GmbH
 
-Keine kritischen Bugs bekannt sind
+Art freight & logistics framework
 
-Eine Benutzerdokumentation vorhanden ist
+Jan 2021 – Dec 2025
 
-Der Code den vereinbarten Coding-Standards entspricht"
-8640f53789d8,What are these documents about?,4,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"hilfreich sein, mit Hinweisen zur korrekten Verwendung.
+Variable (€40– 120k)
 
-3.2 Performance
+Austrian law
 
-Das System muss in der Lage sein, mindestens 100.000 Aufgaben ohne merkliche Verzögerung zu verwalten.
+KWM-CNTR- 2022-003
 
-Die Startzeit der Anwendung darf 2 Sekunden nicht überschreiten. Filteroperationen müssen innerhalb von
+Raiffeisen Capital Mgmt. AG
 
-100ms Ergebnisse liefern.
+Endowment investment mandate
 
-3.3 Zuverlässigkeit
+Jan 2018 – ongoing
 
-Das System muss robust gegen fehlerhafte Eingaben sein und darf bei ungültigen Befehlen nicht abstürzen.
+0.45% AUM p.a.
 
-Die Datenspeicherung muss so erfolgen, dass bei Abbrüchen keine Datenverluste entstehen. Eine hohe
+Austrian law
 
-Verfügbarkeit>99% muss gegeben sein, da kritische Aufgaben mit der Anwendung geplant werden.
+KWM-CNTR- 2022-008
 
-3.4 Wartbarkeit
+Praxmarer Rechtsanwälte GmbH
 
-Der Code muss modular aufgebaut sein mit klarer Trennung zwischen den implementierten Schichten
+Legal counsel framework"
+b27d50257a5c,C1,12,Which department has the largest number of external or non-permanent specialists on contract?,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"2.3 Staff Overview
 
-aufweisen (Präsentation, Daten, Logik ...). Eine Testabdeckung von mindestens 80% für die Geschäftslogik ist
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 5 of 25
 
-anzustreben.
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-3.5 Implementierung
+As of 31 December 2023, Kunsthaus Wien employs 87 full-time equivalent (FTE) staff on permanent contracts, 34 part-time staff (totalling 18.4 FTE), and retains 12 freelance specialist consultants on framework contracts. The institution also hosts an average of 4.2 research fellows per quarter through its annual fellowship programme, operated in partnership with the University of Vienna's Institut für Kunstgeschichte.
 
-Es stehen zwei Varianten zur Verfügung:
+Department
 
-Variante 1: Implementierung als Webanwendung (Spring o.ä.)"
-8640f53789d8,What are these documents about?,5,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"und dem Erstellungszeitpunkt zu ändern. Das System muss eine Funktion zur Löschung von Aufgaben
+Permanent FTE
 
-bereitstellen, wobei eine Bestätigung erforderlich ist.
+Part-time FTE
 
-Der Status einer Aufgabe kann zwischen OFFEN, IN_BEARBEITUNG und ABGESCHLOSSEN gewechselt werden.
+Freelance Dept. Head
 
-Bei Statusänderungen wird automatisch ein Zeitstempel gespeichert.
+Curatorial & Research
 
-2.2 Aufgabenansicht und Filterung
+14
 
-Das System muss eine Listenansicht aller Aufgaben bereitstellen, die standardmäßig nach Priorität und dann
+2.8
 
-nach Fälligkeitsdatum sortiert ist. Benutzer können Aufgaben nach verschiedenen Kriterien filtern: Status,
+4
 
-Priorität, Fälligkeitsdatum (überfällig, heute, diese Woche) und Suchbegriffe im Titel oder in der Beschreibung.
+Dr. Sonja Riegler-Bauer
 
-Eine Detailansicht für einzelne Aufgaben muss alle Informationen inklusive der Historie von Statusänderungen
+Conservation & Restoration
 
-anzeigen. Das System soll eine Statistikübersicht bereitstellen, die die Anzahl der Aufgaben pro Status und die
+9
 
-Anzahl überfälliger Aufgaben zeigt.
+1.2
 
-2.3 Datenpersistierung"
-8640f53789d8,What are these documents about?,6,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"DELETE /api/tasks/{id} - Aufgabe löschen
+3
 
-GET /api/tasks/stats - Statistiken abrufen
+Dipl.-Rest. Klaus Hammerauer
 
-Die API muss JSON als Datenformat verwenden und entsprechende HTTP-Statuscodes zurückgeben.
+Visitor Services & Education
 
-2.5 Benachrichtigungen
+18
 
-Das System soll beim Start prüfen, ob Aufgaben überfällig sind oder heute fällig werden, und diese in einer
+7.4
 
-speziellen Ansicht hervorheben. Optional kann eine Desktop-Benachrichtigung für überfällige Aufgaben
+0
 
-angezeigt werden.
+Mag. Petra Vasović
 
-2.6 Einschränkungen
+Communications & Marketing
 
-Eine Benutzerverwaltung ist optional. Alle Benutzer können ohne Anmeldung auf die Anwendung zugreifen.
+7
 
-3. Nicht-funktionale Anforderungen
+1.6
 
-3.1 Benutzerfreundlichkeit
+2
 
-Das Userinterface soll selbsterklärend und intuitiv verwendbar sein. Fehlermeldungen müssen klar und
+Stefan Kronfeld, MA
 
-hilfreich sein, mit Hinweisen zur korrekten Verwendung.
+Finance & Administration
 
-3.2 Performance
+11
 
-Das System muss in der Lage sein, mindestens 100.000 Aufgaben ohne merkliche Verzögerung zu verwalten."
-f5fd83c75dd2,What are these documents about?,1,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"Technische Rahmenbedingungen
+2.0
 
-Programmiersprache: Java 17 oder höher
+1
 
-Build-Tool: Maven
+Mag. Andrea Zehetgruber
 
-User Interface: Web - Javalin, Spring Boot o.a. oder Swing
+Facilities & Security
 
-Datenbank: sqlite
+16
 
-JSON-Verarbeitung: Jackson
+2.2
 
-REST-Framework: Javalin oder Spring Boot (embedded)
+2"
+b27d50257a5c,C1,12,Which department has the largest number of external or non-permanent specialists on contract?,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Low
 
-Testframeworks: JUnit 5, Mockito
+High
 
-5. Abnahmekriterien
+Role-based access; annual IT security audit
 
-Das System ist abnahmereif, wenn:
+RISK- 006
 
-Alle funktionalen Anforderungen implementiert und getestet sind
+Failure to fill Development Director role
 
-Die Testabdeckung mindestens 80% beträgt
+Medium
 
-Keine kritischen Bugs bekannt sind
+High
 
-Eine Benutzerdokumentation vorhanden ist
+Extended search; interim fundraising consultant
 
-Der Code den vereinbarten Coding-Standards entspricht"
-f5fd83c75dd2,What are these documents about?,2,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"TaskFlow - Anforderungsspezifikation
+RISK- 007
 
-1. Produktübersicht
+Art market softening affects donation values
 
-TaskFlow ist ein Task-Management-System, das es Benutzern ermöglicht, persönliche Aufgaben zu verwalten. Das System bietet sowohl eine lokale Datenspeicherung als auch einen Zugriff (zur Synchronisation) über eine
+High
 
-REST-API an. TaskFlow wird hauptsächlich in Firmen eingesetzt und dient als Arbeitsmittel für die
+Medium Maintain donor relationships;
 
-MitabeiterInnen, um ihre persönlichen Aufgaben zu planen. 2. Funktionale Anforderungen
+planned giving programme
 
-2.1 Aufgabenverwaltung
+9.3 Note on Visitor Data Interpretation"
+b27d50257a5c,C1,12,Which department has the largest number of external or non-permanent specialists on contract?,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Access to the CMS is role-based and governed by the Data Access Policy (ref. KWM-IT-DAP- 2021-001). Full access (read/write across all modules) is restricted to Dr. Yuki Nakamura- Stein (Head of Digital & Collections Management) and Mag. Andrea Zehetgruber (Head of Finance & Administration). Curatorial staff have read/write access to collection and loan records but not to financial or personnel modules. Conservation staff have read/write access to condition records only. All external users, including statutory auditors, are granted temporary read-only access for defined audit periods only.
 
-Das System muss es Benutzern ermöglichen, Aufgaben zu erstellen, die einen Titel, eine optionale
+8.2 Website and Digital Engagement"
+b27d50257a5c,C1,12,Which department has the largest number of external or non-permanent specialists on contract?,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-Beschreibung, eine Priorität (NIEDRIG, MITTEL, HOCH) und ein optionales Fälligkeitsdatum enthalten. Jede
+7. Legal Affairs and Material Contracts
 
-Aufgabe erhält automatisch eine eindeutige ID und einen Zeitstempel der Erstellung. Benutzer müssen in der Lage sein, existierende Aufgaben zu bearbeiten und dabei alle Attribute außer der ID
+7.1 Legal Counsel Arrangements
 
-und dem Erstellungszeitpunkt zu ändern. Das System muss eine Funktion zur Löschung von Aufgaben
+Kunsthaus Wien retains Praxmarer Rechtsanwälte GmbH (Schubertring 12, 1010 Wien) as its primary external legal counsel under an annual framework agreement (ref. KWM-LEGAL- FWK-2022-001, renewed January 2023 for a 24-month term expiring 31 December 2024). The framework provides for up to 120 billable hours per annum at an agreed rate of €280 per hour for partner-level work and €190 per hour for associate-level work, with any excess hours requiring written pre-approval by the Director General or Chief Financial Officer. In 2023, the institution consumed 94.5 billable hours under this arrangement, at a total cost of €22,400 inclusive of VAT."
+b27d50257a5c,C1,12,Which department has the largest number of external or non-permanent specialists on contract?,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Of the 89 assessed works, 31 were rated Excellent, 37 were rated Good, 14 were rated Fair, 6 were rated Poor, and 1 was rated Critical. The single work rated Critical is a large-format oil painting (KWM-1998-034, attributed to the circle of Oskar Kokoschka, c. 1918, oil on canvas, 182 × 240 cm) which has been removed from the display rotation and placed in climate- controlled storage pending a full structural treatment estimated to cost between €28,000 and €45,000. A specialist contractor has been shortlisted and a final cost proposal is expected in Q1 2024.
 
-bereitstellen, wobei eine Bestätigung erforderlich ist. Der Status einer Aufgabe kann zwischen OFFEN, IN_BEARBEITUNG und ABGESCHLOSSEN gewechselt werden. Bei Statusänderungen wird automatisch ein Zeitstempel gespeichert. 2.2 Aufgabenansicht und Filterung
+The six works rated Poor are scheduled for preventive treatment in the first half of 2024. Total conservation expenditure in 2023 amounted to €187,340, which is €12,660 below the
 
-Das System muss eine Listenansicht aller Aufgaben bereitstellen, die standardmäßig nach Priorität und dann
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 8 of 25
 
-nach Fälligkeitsdatum sortiert ist. Benutzer können Aufgaben nach verschiedenen Kriterien filtern: Status,
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL"
+b27d50257a5c,C1,12,Which department has the largest number of external or non-permanent specialists on contract?,7,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-Priorität, Fälligkeitsdatum (überfällig, heute, diese Woche) und Suchbegriffe im Titel oder in der Beschreibung. Eine Detailansicht für einzelne Aufgaben muss alle Informationen inklusive der Historie von Statusänderungen
+KUNSTHAUS WIEN
 
-anzeigen. Das System soll eine Statistikübersicht bereitstellen, die die Anzahl der Aufgaben pro Status und die
+Stiftung für Europäische Kunst und Kulturerbe Foundation for European Art and Cultural Heritage
 
-Anzahl überfälliger Aufgaben zeigt. 2.3 Datenpersistierung
+ANNUAL INSTITUTIONAL REPORT Fiscal & Exhibition Year 2023
 
-Alle Aufgaben werden in einer Sqlite Datenbank gespeichert. Das System muss beim Start automatisch die
+STRICTLY CONFIDENTIAL — INTERNAL DOCUMENT Not for external distribution. Classification: Restricted.
 
-gespeicherten Daten laden und bei jeder Änderung die Daten aktualisieren. Eine Backup-Funktion soll die
+Prepared by: Office of the Director General Reviewed by: Board of Trustees | Dr. Ingrid Felsenthal-Kraus, Chairwoman Document Reference: KWM-DIR-2023-AR-001
 
-aktuelle Datenbasis in eine separate JSON Datei mit Zeitstempel exportieren können. 2.4 REST-API Integration
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 1 of 25
 
-Das System startet auch einen eingebetteten HTTP-Server, der eine REST-API bereitstellt. Die API muss
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-folgende Endpunkte unterstützen:
+Table of Contents
 
-GET /api/tasks - Alle Aufgaben abrufen
+1. Director General's Foreword ............................................................................ 4
 
-GET /api/tasks/{id} - Einzelne Aufgabe abrufen
+2. Institutional Profile and Governance ................................................................ 5
 
-POST /api/tasks - Neue Aufgabe erstellen
+2.1 Founding History and Legal Status ......................................................................... 5"
+b27d50257a5c,C1,12,Which department has the largest number of external or non-permanent specialists on contract?,8,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Of the surveyed visitors, 38.4% were Vienna residents (postcode prefix 1XXX), 14.2% were Austrian residents from outside Vienna, 21.7% were German-speaking visitors from Germany and Switzerland, 11.3% were visitors from other EU member states, and 14.4% were international visitors from outside the EU. The largest non-German-speaking nationality groups were Italian (3.2%), Czech (2.8%), and American (2.1%). First-time visitors accounted for 61.3% of surveyed respondents, while repeat visitors (those who had attended at least once in the previous twelve months) accounted for 38.7%.
 
-PUT /api/tasks/{id} - Aufgabe aktualisieren
+The age distribution of surveyed visitors showed a concentration in the 35–54 age bracket, which accounted for 41.2% of respondents. Visitors aged 18–34 represented 22.8%, those aged 55–69 represented 24.6%, and those aged 70 and above represented 8.1%. Visitors under 18 are tracked separately through group booking records and accounted for 3.3% of total attendance, primarily through organised school visits."
+ab785a8f44c5,C2,1,What is the specific document reference number and who approved the report?,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"This document is the property of Kunsthaus Wien— Stiftung für Europäische Kunst und Kulturerbe. All rights reserved. Unauthorised reproduction or disclosure is prohibited. © Kunsthaus Wien 2024.
 
-DELETE /api/tasks/{id} - Aufgabe löschen
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 25 of 25"
+ab785a8f44c5,C2,1,What is the specific document reference number and who approved the report?,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Access to the CMS is role-based and governed by the Data Access Policy (ref. KWM-IT-DAP- 2021-001). Full access (read/write across all modules) is restricted to Dr. Yuki Nakamura- Stein (Head of Digital & Collections Management) and Mag. Andrea Zehetgruber (Head of Finance & Administration). Curatorial staff have read/write access to collection and loan records but not to financial or personnel modules. Conservation staff have read/write access to condition records only. All external users, including statutory auditors, are granted temporary read-only access for defined audit periods only.
 
-GET /api/tasks/stats - Statistiken abrufen
+8.2 Website and Digital Engagement"
+ab785a8f44c5,C2,1,What is the specific document reference number and who approved the report?,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The five most valuable individual works in the collection, based on current insurance valuation, are not identified by name in this report in accordance with security protocol MDU-SEC-2019- 03 approved by the Board. However, it is noted for governance purposes that the single most valuable work in the collection carries an individual insurance valuation of €4,200,000 and belongs to the early Viennese Expressionist period.
 
-Die API muss JSON als Datenformat verwenden und entsprechende HTTP-Statuscodes zurückgeben. 2.5 Benachrichtigungen
+3.2 Acquisitions in 2023
 
-Das System soll beim Start prüfen, ob Aufgaben überfällig sind oder heute fällig werden, und diese in einer
+The Acquisitions Committee, chaired by Trustee Mag. Renata Prohászka-Weiss and comprising Dr. Sonja Riegler-Bauer (Chief Curator), Prof. Günter Blauensteinbach (Trustee), and two external advisors, met on four occasions in 2023: 16 February, 12 May, 7 September, and 3 November. The Committee reviewed a total of 31 acquisition proposals and approved eight purchases and one donation acceptance."
+ab785a8f44c5,C2,1,What is the specific document reference number and who approved the report?,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Of the surveyed visitors, 38.4% were Vienna residents (postcode prefix 1XXX), 14.2% were Austrian residents from outside Vienna, 21.7% were German-speaking visitors from Germany and Switzerland, 11.3% were visitors from other EU member states, and 14.4% were international visitors from outside the EU. The largest non-German-speaking nationality groups were Italian (3.2%), Czech (2.8%), and American (2.1%). First-time visitors accounted for 61.3% of surveyed respondents, while repeat visitors (those who had attended at least once in the previous twelve months) accounted for 38.7%."
+ab785a8f44c5,C2,1,What is the specific document reference number and who approved the report?,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Our Director General, Dr. Maximilian Oberhuber-Steiner, assumed the post in January 2022 following the retirement of his predecessor, Dr. Eleonore Vásárhelyi, and has since led the institution through two major exhibition cycles, one significant acquisition campaign, and a complete overhaul of our digital infrastructure. This report covers the full fiscal year from 1 January to 31 December 2023 and represents the most comprehensive institutional self- assessment Kunsthaus Wien has produced in its thirty-one-year history."
+ab785a8f44c5,C2,1,What is the specific document reference number and who approved the report?,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"RISK- 004
 
-speziellen Ansicht hervorheben."
-f5fd83c75dd2,What are these documents about?,3,data_folder/TaskFlow.pdf,data_folder/TaskFlow.pdf,5003ec073825076a85055f3914650c84,"Optional kann eine Desktop-Benachrichtigung für überfällige Aufgaben
+Key person dependency (Director General)
 
-angezeigt werden. 2.6 Einschränkungen
+Low
 
-Eine Benutzerverwaltung ist optional. Alle Benutzer können ohne Anmeldung auf die Anwendung zugreifen. 3. Nicht-funktionale Anforderungen
+High
 
-3.1 Benutzerfreundlichkeit
+Succession planning; Deputy Director appointment
 
-Das Userinterface soll selbsterklärend und intuitiv verwendbar sein. Fehlermeldungen müssen klar und
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 20 of 25
 
-hilfreich sein, mit Hinweisen zur korrekten Verwendung. 3.2 Performance
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
 
-Das System muss in der Lage sein, mindestens 100.000 Aufgaben ohne merkliche Verzögerung zu verwalten. Die Startzeit der Anwendung darf 2 Sekunden nicht überschreiten. Filteroperationen müssen innerhalb von
+Risk ID Risk Description
 
-100ms Ergebnisse liefern. 3.3 Zuverlässigkeit
+Likelihood
 
-Das System muss robust gegen fehlerhafte Eingaben sein und darf bei ungültigen Befehlen nicht abstürzen. Die Datenspeicherung muss so erfolgen, dass bei Abbrüchen keine Datenverluste entstehen. Eine hohe
+Impact Mitigation
 
-Verfügbarkeit>99% muss gegeben sein, da kritische Aufgaben mit der Anwendung geplant werden. 3.4 Wartbarkeit
+RISK- 005
 
-Der Code muss modular aufgebaut sein mit klarer Trennung zwischen den implementierten Schichten
+Data breach / CMS unauthorised access
 
-aufweisen (Präsentation, Daten, Logik ...). Eine Testabdeckung von mindestens 80% für die Geschäftslogik ist
+Low
 
-anzustreben. 3.5 Implementierung
+High
 
-Es stehen zwei Varianten zur Verfügung:
+Role-based access; annual IT security audit
 
-Variante 1: Implementierung als Webanwendung (Spring o.ä.)
+RISK- 006
 
-Variante 2: Implementierung als Desktop Anwendung (Swing)
+Failure to fill Development Director role
 
-3.6 Portabilität
+Medium
 
-Variante 1: Das System muss auf Firefox, Chrome und Safari lauffähig sein. Variante 2: Das System muss auf Windows, Linux und macOS lauffähig sein. 4."
+High
+
+Extended search; interim fundraising consultant
+
+RISK- 007
+
+Art market softening affects donation values
+
+High
+
+Medium Maintain donor relationships;
+
+planned giving programme
+
+9.3 Note on Visitor Data Interpretation"
+ab785a8f44c5,C2,1,What is the specific document reference number and who approved the report?,7,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Hungarian law
+
+KWM-CNTR- 2023-014
+
+[Swiss Private Collection — name withheld]
+
+Outgoing loan KWM-2012-007
+
+Jul 2023 – Dec 2024
+
+€400,000 (lump sum paid)
+
+Swiss law
+
+KWM-CNTR- 2023-019
+
+Verlag Anton Schroll & Co.
+
+Catalogue co- publication
+
+Mar–Dec 2023
+
+€50,000 (subsidy)
+
+Austrian law
+
+7.3 Insurance"
+11dba8626245,C2,2,In which areas of budget there was underspend and why?,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"9.4 Correction to 2022 Annual Report
+
+It is noted for the record that the 2022 Annual Report (ref. KWM-DIR-2022-AR-001, published March 2023) contained an error in Section 6.1, where the Federal Chancellery Kunstsektion subsidy was reported as €820,000. The correct figure was €800,000. The €20,000 discrepancy arose from a misclassification of a project-specific grant from the Kunstsektion (ref. BKAMT-2022-KWM-PRJ-007, value €20,000) as core subsidy income rather than project income. This correction has been noted in the 2023 accounts and the 2022 comparative figures in this report reflect the corrected amounts.
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 21 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+10. Personnel Report and Remuneration
+
+10.1 Senior Management Remuneration"
+11dba8626245,C2,2,In which areas of budget there was underspend and why?,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"3.3 Conservation Status of Permanent Collection
+
+The Conservation Department, under the direction of Dipl.-Rest. Klaus Hammerauer, conducted condition assessments of 89 works during 2023, representing 21.6% of the total collection. Priority was given to works scheduled for the 2024 and 2025 exhibition programmes and to works flagged in the previous assessment cycle as requiring monitoring. Conservation condition ratings follow the institution's five-tier internal scale: Excellent (E), Good (G), Fair (F), Poor (P), and Critical (C)."
+11dba8626245,C2,2,In which areas of budget there was underspend and why?,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The age distribution of surveyed visitors showed a concentration in the 35–54 age bracket, which accounted for 41.2% of respondents. Visitors aged 18–34 represented 22.8%, those aged 55–69 represented 24.6%, and those aged 70 and above represented 8.1%. Visitors under 18 are tracked separately through group booking records and accounted for 3.3% of total attendance, primarily through organised school visits.
+
+4.3 Exhibition Attendance Detail"
+11dba8626245,C2,2,In which areas of budget there was underspend and why?,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+9. Strategic Outlook and Risk Register
+
+9.1 Strategic Priorities for 2024–2025
+
+The final two years of the 2021–2025 Strategic Plan will be characterised by consolidation, evaluation, and preparation for the next planning cycle. Three strategic priorities have been identified by the Director General and endorsed by the Board at the December 2023 meeting."
+11dba8626245,C2,2,In which areas of budget there was underspend and why?,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"6.2 Expenditure Summary
+
+Total operating expenditure for 2023 was €5,917,340, compared to a budgeted figure of €5,680,000, representing an overspend of €237,340 or 4.2%. The primary driver of the overspend was personnel costs, which exceeded budget by €198,400 due to unplanned interim staffing in the Conservation Department following the departure of Mag. Birgit Stelzenböck, and the payment of a discretionary performance supplement of €42,000 to the Director General approved by the Board in June 2023. A secondary overspend of €67,200 occurred in exhibition production costs, attributable to the higher-than-anticipated insurance premium for the Budapest loans.
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 15 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+Expenditure Category
+
+Budget 2023 (€)
+
+Actual 2023 (€)
+
+Variance (€)
+
+Variance (%)
+
+Personnel costs (salaries & benefits)
+
+3,120,000
+
+3,318,400
+
++198,400
+
++6.4%
+
+Exhibition production & installation"
+11dba8626245,C2,2,In which areas of budget there was underspend and why?,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"RISK- 007
+
+Art market softening affects donation values
+
+High
+
+Medium Maintain donor relationships;
+
+planned giving programme
+
+9.3 Note on Visitor Data Interpretation
+
+A note of caution is warranted regarding the interpretation of visitor statistics presented in Section 4. The total figure of 94,620 visitors represents gross recorded admissions and should not be used without adjustment for certain operational factors. Specifically, holders of the annual Kunsthaus Pass (of whom there were 1,847 active passholders as of 31 December 2023) are recorded as individual admissions on each visit, meaning frequent visitors may be counted multiple times within the annual total. Internal modelling by Mag. Zehetgruber's team suggests that adjusting for estimated repeat pass-holder visits would reduce the effective unique visitor count to approximately 81,200–83,400, though this estimate carries significant uncertainty."
+11dba8626245,C2,2,In which areas of budget there was underspend and why?,7,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The 2023 programme was the third year of execution under this strategy and demonstrated strong alignment with all three pillars. Secession Echoes addressed the first and third pillars through its scholarly reappraisal of Secessionist influence and its collaboration with the Charles University Prague. Farbe und Stille addressed the second pillar through its focus on women painters active in the postwar Austrian and Czechoslovak art scenes. The permanent collection galleries underwent a partial rehang in July 2023, with twelve works rotated to storage and eight previously stored works brought to display, increasing the proportion of works by women artists in the permanent display from 18.3% to 24.7%.
+
+5.2 Loan Agreements and Inter-Institutional Exchanges"
+10d7b3c2d356,C2,3,What is the version number and vendor of the primary Collections Management System (CMS).,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+8. Digital Infrastructure and Collections Management
+
+8.1 Collections Management System
+
+The institution operates MuseumPlus (version 9.4.2, supplied by Zetcom AG, Switzerland) as its primary Collections Management System (CMS). The system holds records for all 412 works in the permanent collection, all 34 active material contracts, the full loan register, and the conservation assessment archive. As of 31 December 2023, 94.7% of collection records have been fully digitised with high-resolution imaging (minimum 50 megapixels per work). The remaining 22 works awaiting full digitisation are scheduled for imaging in Q1 2024 as part of the Digital Completeness Project initiated in October 2023 and budgeted at €18,400."
+10d7b3c2d356,C2,3,What is the version number and vendor of the primary Collections Management System (CMS).,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Access to the CMS is role-based and governed by the Data Access Policy (ref. KWM-IT-DAP- 2021-001). Full access (read/write across all modules) is restricted to Dr. Yuki Nakamura- Stein (Head of Digital & Collections Management) and Mag. Andrea Zehetgruber (Head of Finance & Administration). Curatorial staff have read/write access to collection and loan records but not to financial or personnel modules. Conservation staff have read/write access to condition records only. All external users, including statutory auditors, are granted temporary read-only access for defined audit periods only.
+
+8.2 Website and Digital Engagement"
+10d7b3c2d356,C2,3,What is the version number and vendor of the primary Collections Management System (CMS).,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Of the surveyed visitors, 38.4% were Vienna residents (postcode prefix 1XXX), 14.2% were Austrian residents from outside Vienna, 21.7% were German-speaking visitors from Germany and Switzerland, 11.3% were visitors from other EU member states, and 14.4% were international visitors from outside the EU. The largest non-German-speaking nationality groups were Italian (3.2%), Czech (2.8%), and American (2.1%). First-time visitors accounted for 61.3% of surveyed respondents, while repeat visitors (those who had attended at least once in the previous twelve months) accounted for 38.7%."
+10d7b3c2d356,C2,3,What is the version number and vendor of the primary Collections Management System (CMS).,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"3.4 Provenance Review and Restitution ....................................................................... 9
+
+4. Visitor Statistics and Audience Development ................................................. 10
+
+4.1 Annual Footfall Summary ..................................................................................... 10
+
+4.2 Visitor Demographics and Origins ......................................................................... 11
+
+4.3 Exhibition Attendance Detail ................................................................................. 11
+
+5. Exhibition Programme and Curatorial Activity ................................................. 13
+
+5.1 Curatorial Philosophy and 2023 Programme Overview ........................................... 13
+
+5.2 Loan Agreements and Inter-Institutional Exchanges .............................................. 13
+
+5.3 Planned 2024 Programme ..................................................................................... 13"
+10d7b3c2d356,C2,3,What is the version number and vendor of the primary Collections Management System (CMS).,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 4 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+2. Institutional Profile and Governance
+
+2.1 Founding History and Legal Status
+
+Kunsthaus Wien was established in 1993 as a private foundation (Privatstiftung) under Austrian law, pursuant to the Private Foundations Act (Privatstiftungsgesetz, BGBl. Nr. 694/1993). The founding endowment of 12,000,000 Austrian Schillings was contributed jointly by the Felsenthal Family Trust, the Chamber of Commerce of Lower Austria, and three anonymous private donors whose identities are maintained under fiduciary seal by the notarial firm of Mag. Rudolf Schorndorfer & Partner, Vienna."
+10d7b3c2d356,C2,3,What is the version number and vendor of the primary Collections Management System (CMS).,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The Farbe und Stille exhibition, a dual institutional project co-presented with the Lentos Kunstmuseum Linz and curated by Mag. Josef Weitersberger (Lentos) and Dr. Yuki Nakamura-Stein (KWM), ran from 7 October to 26 November 2023 and attracted 19,847
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 11 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+visitors at the Vienna venue. A travelling version of the exhibition is scheduled to be shown at the Lentos between February and April 2024 under a separate loan agreement (ref. KWM- LOAN-2024-LNZ-001). No revenue sharing arrangement exists for the Linz showing; each institution bears its own operational costs for its respective venue.
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 12 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+5. Exhibition Programme and Curatorial Activity
+
+5.1 Curatorial Philosophy and 2023 Programme Overview"
+f55691d0f09a,C2,4,List the peak visitor count and the specific date it occurred in 2023.,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The month of March 2023 recorded the highest single-month attendance of the year, with 12,847 visitors, driven primarily by the opening of the Secession Echoes retrospective on 4 March and sustained weekend footfall throughout the exhibition's first four weeks. The lowest month was January 2023, with 3,912 visitors (apart from December 2023 when the institution was closed to the public from 16 to 31), consistent with the institution's historically weak January performance attributable to post-holiday visitor fatigue and the absence of a major temporary exhibition during that period."
+f55691d0f09a,C2,4,List the peak visitor count and the specific date it occurred in 2023.,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 9 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+4. Visitor Statistics and Audience Development
+
+4.1 Annual Footfall Summary
+
+Total recorded visitor attendance at Kunsthaus Wien in 2023 reached 94,620, representing an increase of 7.1% over the 2022 figure of 88,370 and surpassing the pre-pandemic record of 88,340 visitors recorded in 2019. This figure encompasses all ticketed admissions, group bookings, school visits, guided tour participants, and holders of annual membership passes. It does not include attendees at private vernissage events, board meetings, or institutional functions held outside public opening hours."
+f55691d0f09a,C2,4,List the peak visitor count and the specific date it occurred in 2023.,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 3 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+1. Director General's Foreword
+
+The year 2023 marked a period of remarkable transformation and consolidation for Kunsthaus Wien. Under the continued stewardship of the Board of Trustees and with the tireless dedication of our 87 permanent staff members and 34 part-time associates, we achieved a record-breaking institutional performance that exceeded nearly every measurable target set in our 2021–2025 Strategic Plan."
+f55691d0f09a,C2,4,List the peak visitor count and the specific date it occurred in 2023.,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Of the surveyed visitors, 38.4% were Vienna residents (postcode prefix 1XXX), 14.2% were Austrian residents from outside Vienna, 21.7% were German-speaking visitors from Germany and Switzerland, 11.3% were visitors from other EU member states, and 14.4% were international visitors from outside the EU. The largest non-German-speaking nationality groups were Italian (3.2%), Czech (2.8%), and American (2.1%). First-time visitors accounted for 61.3% of surveyed respondents, while repeat visitors (those who had attended at least once in the previous twelve months) accounted for 38.7%."
+f55691d0f09a,C2,4,List the peak visitor count and the specific date it occurred in 2023.,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The busiest single day of 2023 was Saturday, 18 March 2023, on which 1,104 visitors were recorded, coinciding with a weekend midpoint in the Secession Echoes run and particularly favourable weather conditions. The second busiest day was Saturday, 25 March 2023, with 1,087 visitors. The third busiest was Saturday, 14 October 2023, with 1,019 visitors, during the opening weekend of the Farbe und Stille exhibition.
+
+Month
+
+Total Visitors
+
+Avg. Daily
+
+Peak Day
+
+Peak Day Count
+
+Primary Driver
+
+January 2023
+
+3,912
+
+126
+
+Sat 21 Jan
+
+312
+
+Permanent collection only
+
+February 2023
+
+5,841
+
+209
+
+Sat 25 Feb
+
+487
+
+Permanent collection + school visits
+
+March 2023
+
+12,847
+
+414
+
+Sat 18 Mar
+
+1,104
+
+Secession Echoes opening
+
+April 2023
+
+11,203
+
+374
+
+Sat 08 Apr
+
+924
+
+Secession Echoes (peak)
+
+May 2023
+
+10,112
+
+326
+
+Sat 06 May
+
+871
+
+Secession Echoes (closing weeks)
+
+June 2023
+
+7,440
+
+248
+
+Sat 10 Jun
+
+603
+
+Post-exhibition transition
+
+July 2023
+
+7,981
+
+257
+
+Sat 15 Jul
+
+698
+
+Summer tourism season"
+f55691d0f09a,C2,4,List the peak visitor count and the specific date it occurred in 2023.,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"8.2 Website and Digital Engagement
+
+The institutional website (www.kunsthauswien.at) recorded 487,200 unique visitors in 2023, an increase of 23.4% over the 2022 figure of 394,800. The increase is attributable primarily to the international press coverage of the Secession Echoes exhibition, which generated significant inbound traffic from German-language media. The institution's online ticketing system, integrated with the website since the 2021 infrastructure refresh, processed 18,340 ticket transactions in 2023, representing 19.4% of total paid admissions. The remaining 80.6% of admissions were purchased at the physical ticket desk."
+7a295860f8c6,C2,5,Explain why the institution exceeded its 2023 personnel budget and identify the specific individuals or roles involved.,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 3 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+1. Director General's Foreword
+
+The year 2023 marked a period of remarkable transformation and consolidation for Kunsthaus Wien. Under the continued stewardship of the Board of Trustees and with the tireless dedication of our 87 permanent staff members and 34 part-time associates, we achieved a record-breaking institutional performance that exceeded nearly every measurable target set in our 2021–2025 Strategic Plan."
+7a295860f8c6,C2,5,Explain why the institution exceeded its 2023 personnel budget and identify the specific individuals or roles involved.,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"6.2 Expenditure Summary
+
+Total operating expenditure for 2023 was €5,917,340, compared to a budgeted figure of €5,680,000, representing an overspend of €237,340 or 4.2%. The primary driver of the overspend was personnel costs, which exceeded budget by €198,400 due to unplanned interim staffing in the Conservation Department following the departure of Mag. Birgit Stelzenböck, and the payment of a discretionary performance supplement of €42,000 to the Director General approved by the Board in June 2023. A secondary overspend of €67,200 occurred in exhibition production costs, attributable to the higher-than-anticipated insurance premium for the Budapest loans.
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 15 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+Expenditure Category
+
+Budget 2023 (€)
+
+Actual 2023 (€)
+
+Variance (€)
+
+Variance (%)
+
+Personnel costs (salaries & benefits)
+
+3,120,000
+
+3,318,400
+
++198,400
+
++6.4%
+
+Exhibition production & installation"
+7a295860f8c6,C2,5,Explain why the institution exceeded its 2023 personnel budget and identify the specific individuals or roles involved.,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Our Director General, Dr. Maximilian Oberhuber-Steiner, assumed the post in January 2022 following the retirement of his predecessor, Dr. Eleonore Vásárhelyi, and has since led the institution through two major exhibition cycles, one significant acquisition campaign, and a complete overhaul of our digital infrastructure. This report covers the full fiscal year from 1 January to 31 December 2023 and represents the most comprehensive institutional self- assessment Kunsthaus Wien has produced in its thirty-one-year history."
+7a295860f8c6,C2,5,Explain why the institution exceeded its 2023 personnel budget and identify the specific individuals or roles involved.,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Third, and strategically most significant, the institution will formally launch a capital campaign in 2024 targeting a €2,000,000 increase in the endowment over a five-year horizon. The campaign will be led by a newly appointed Development Director, a role approved by the Board in October 2023 and currently in the final stages of recruitment. The shortlisted candidates are Mag. Florian Weidinger-Holub (currently Head of Development at the Vienna Philharmonic Foundation) and Dr. Brigitte Samuels-Baumann (currently Director of Philanthropy at the Kunsthistorisches Museum). A final decision is expected by 15 February 2024.
+
+9.2 Risk Register (Selected Material Risks)"
+7a295860f8c6,C2,5,Explain why the institution exceeded its 2023 personnel budget and identify the specific individuals or roles involved.,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 22 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+Seven new permanent positions were filled in 2023, including two replacements for departures and five positions approved in the 2023 budget as part of the institution's controlled growth plan. The average time-to-fill for permanent positions was 98 days from vacancy declaration to start date, compared to a sector benchmark of approximately 75–85 days. The longer-than- benchmark time-to-fill reflects the specialised nature of the institution's roles and its non- negotiable requirement that all new staff demonstrate German-language proficiency at minimum B2 level.
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 23 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+Annexes
+
+Annex A — Glossary of Internal Reference Codes"
+ebab0060f408,C2,6,What are the strategic priorities for the next two years?,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+9. Strategic Outlook and Risk Register
+
+9.1 Strategic Priorities for 2024–2025
+
+The final two years of the 2021–2025 Strategic Plan will be characterised by consolidation, evaluation, and preparation for the next planning cycle. Three strategic priorities have been identified by the Director General and endorsed by the Board at the December 2023 meeting."
+ebab0060f408,C2,6,What are the strategic priorities for the next two years?,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Third, and strategically most significant, the institution will formally launch a capital campaign in 2024 targeting a €2,000,000 increase in the endowment over a five-year horizon. The campaign will be led by a newly appointed Development Director, a role approved by the Board in October 2023 and currently in the final stages of recruitment. The shortlisted candidates are Mag. Florian Weidinger-Holub (currently Head of Development at the Vienna Philharmonic Foundation) and Dr. Brigitte Samuels-Baumann (currently Director of Philanthropy at the Kunsthistorisches Museum). A final decision is expected by 15 February 2024.
+
+9.2 Risk Register (Selected Material Risks)"
+ebab0060f408,C2,6,What are the strategic priorities for the next two years?,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Our Director General, Dr. Maximilian Oberhuber-Steiner, assumed the post in January 2022 following the retirement of his predecessor, Dr. Eleonore Vásárhelyi, and has since led the institution through two major exhibition cycles, one significant acquisition campaign, and a complete overhaul of our digital infrastructure. This report covers the full fiscal year from 1 January to 31 December 2023 and represents the most comprehensive institutional self- assessment Kunsthaus Wien has produced in its thirty-one-year history."
+ebab0060f408,C2,6,What are the strategic priorities for the next two years?,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The institution is registered with the Vienna Commercial Court (Handelsgericht Wien) under registration number FN 189234 p. Its registered office is located at Marxergasse 17, 1030 Wien, Austria. The foundation's purpose, as defined in Article 2 of its Founding Deed (Stiftungsurkunde), is the permanent preservation, scholarly study, public exhibition, and responsible acquisition of works of European fine art, with a particular emphasis on Central European painting, works on paper, and decorative arts from the period 1880 to 1980.
+
+The institution is not a public body and receives no guaranteed public funding, although it has maintained an ongoing subsidy relationship with both the City of Vienna and the Federal Republic of Austria since 1997. The foundation's charitable status (Gemeinnützigkeit) is confirmed annually by the Tax Authority Vienna (Finanzamt Wien), most recently by determination dated 14 March 2023, reference number FA23-2023-GN-00441.
+
+2.2 Governance Structure"
+ebab0060f408,C2,6,What are the strategic priorities for the next two years?,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"We enter 2024 with cautious optimism. The global art market has shown signs of softening following exceptional growth in 2021 and 2022, and donor appetite for large-scale capital gifts has become more selective. Nevertheless, Kunsthaus Wien is well-positioned: our endowment stands at €4,750,000, our collection is insured at replacement value for €38,200,000, and our institutional partnerships span fourteen countries across Europe and the Americas.
+
+This document is intended solely for internal governance purposes and the use of the Board of Trustees, senior management, and approved statutory auditors. Any reproduction, distribution, or disclosure to third parties without the written authorisation of the Director General is strictly prohibited.
+
+Dr. Maximilian Oberhuber-Steiner | Director General, Kunsthaus Wien | Vienna, February 2024
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 4 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL"
+ebab0060f408,C2,6,What are the strategic priorities for the next two years?,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The month of March 2023 recorded the highest single-month attendance of the year, with 12,847 visitors, driven primarily by the opening of the Secession Echoes retrospective on 4 March and sustained weekend footfall throughout the exhibition's first four weeks. The lowest month was January 2023, with 3,912 visitors (apart from December 2023 when the institution was closed to the public from 16 to 31), consistent with the institution's historically weak January performance attributable to post-holiday visitor fatigue and the absence of a major temporary exhibition during that period."
+ebab0060f408,C2,6,What are the strategic priorities for the next two years?,7,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Annexes ........................................................................................................... 24
+
+Annex A — Glossary of Internal Reference Codes ........................................................ 24
+
+Annex B — Currency and Valuation Notes ................................................................... 24
+
+Annex C — Advisory Council Members (as of 31 December 2023) ................................. 24
+
+Annex D — Document Control .................................................................................... 24
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 3 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+1. Director General's Foreword"
+ad7e644b98ad,C2,7,Determine if the institution's current insurance policy is sufficient to cover the total replacement value of the collection in the event of a total loss.,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Jul 2023 – Dec 2024
+
+€400,000 (lump sum paid)
+
+Swiss law
+
+KWM-CNTR- 2023-019
+
+Verlag Anton Schroll & Co.
+
+Catalogue co- publication
+
+Mar–Dec 2023
+
+€50,000 (subsidy)
+
+Austrian law
+
+7.3 Insurance
+
+The collection is insured under a fine art block policy with Zürich Insurance plc (Austrian branch) under policy number ZUR-AT-FA-2019-00443, which has been in force since 1 January 2019 and was renewed for a further three-year term effective 1 January 2023 at an annual premium of €143,200. The policy provides all-risks cover (nail-to-nail) for owned works and, where specified in the schedule, for works on loan to the institution from third parties. The policy limit of indemnity per occurrence is €15,000,000 and the aggregate annual limit is €30,000,000. The current declared collection value of €38,200,000 exceeds the per- occurrence limit, and the institution has accepted this gap risk as commercially reasonable following advice from its insurance broker, Marsh GmbH (Vienna office)."
+ad7e644b98ad,C2,7,Determine if the institution's current insurance policy is sufficient to cover the total replacement value of the collection in the event of a total loss.,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The three incoming loans are governed by the lending institution's own agreement templates and have been reviewed by the institution's legal counsel, Mag. Gerhard Praxmarer of Praxmarer Rechtsanwälte GmbH (Vienna). The most significant incoming loan is a group of four drawings attributed to Egon Schiele (collection of the Szépművészeti Múzeum Budapest, inventory numbers SZM-GR-1934-0041 through 0044), loaned for the Secession Echoes exhibition under agreement ref. SZM-LOAN-2023-KWM-01, governed by Hungarian law, with insurance coverage provided by the Szépművészeti Múzeum under its own institutional policy with Allianz Hungária. Kunsthaus Wien assumed no insurance liability for these works during transit or display.
+
+5.3 Planned 2024 Programme"
+ad7e644b98ad,C2,7,Determine if the institution's current insurance policy is sufficient to cover the total replacement value of the collection in the event of a total loss.,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"First, the institution will pursue a targeted acquisition campaign in the area of postwar Austrian women artists, for which the Acquisitions Committee has pre-approved a ring-fenced budget of €400,000 drawn from the Conservation Reserve Fund pending a formal Board resolution expected in March 2024. Dr. Riegler-Bauer has identified seven priority works across five artists whose estates or existing owners have expressed willingness to negotiate. The most significant target is a large-format triptych by Herta Kronauer-Weiß (1928–2004), currently in a private collection in Graz, which is estimated to be available for purchase at between €150,000 and €220,000."
+ad7e644b98ad,C2,7,Determine if the institution's current insurance policy is sufficient to cover the total replacement value of the collection in the event of a total loss.,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The institution is registered with the Vienna Commercial Court (Handelsgericht Wien) under registration number FN 189234 p. Its registered office is located at Marxergasse 17, 1030 Wien, Austria. The foundation's purpose, as defined in Article 2 of its Founding Deed (Stiftungsurkunde), is the permanent preservation, scholarly study, public exhibition, and responsible acquisition of works of European fine art, with a particular emphasis on Central European painting, works on paper, and decorative arts from the period 1880 to 1980.
+
+The institution is not a public body and receives no guaranteed public funding, although it has maintained an ongoing subsidy relationship with both the City of Vienna and the Federal Republic of Austria since 1997. The foundation's charitable status (Gemeinnützigkeit) is confirmed annually by the Tax Authority Vienna (Finanzamt Wien), most recently by determination dated 14 March 2023, reference number FA23-2023-GN-00441.
+
+2.2 Governance Structure"
+ad7e644b98ad,C2,7,Determine if the institution's current insurance policy is sufficient to cover the total replacement value of the collection in the event of a total loss.,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"It is noted for the record that a claim was made under this policy in February 2023 following minor water damage to two works in the storage facility caused by a burst pipe during the January cold snap. The claim was settled in June 2023 for €14,700 net of the policy deductible of €2,500. The damaged works, KWM-1987-022 and KWM-2001-008, have been fully restored by the Conservation Department and returned to the collection.
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 18 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+8. Digital Infrastructure and Collections Management
+
+8.1 Collections Management System"
+ad7e644b98ad,C2,7,Determine if the institution's current insurance policy is sufficient to cover the total replacement value of the collection in the event of a total loss.,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Specialist legal advice on intellectual property, image rights, and reproduction licensing is provided on an ad hoc basis by Dr. Theresa Wimmer-Holzmann (sole practitioner, Vienna), who has advised the institution since 2016. Dr. Wimmer-Holzmann's 2023 engagements related primarily to the negotiation of image licensing terms for the Secession Echoes catalogue and an ongoing dispute with a German online platform that reproduced a high- resolution image of a work in the permanent collection without authorisation. That dispute was resolved in October 2023 by way of an out-of-court settlement in the amount of €8,400 paid to the institution, of which 30% (€2,520) was remitted to the artist's estate under the institution's standard reproduction fee-sharing policy.
+
+7.2 Key Contracts Active in 2023"
+991c497e69bc,C2,8,Identify the artist of the work acquired in 2023 that accounted for the majority of the year's acquisition spending and name the expert who authenticated it.,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Total acquisition expenditure in 2023 amounted to €892,400, against a budgeted figure of €950,000, representing an underspend of €57,600 or 6.1%. Three acquisitions were made at auction (Dorotheum Vienna and Ketterer Kunst Hamburg), four through private gallery transactions, and one directly from the artist's estate. The donation was accepted from the estate of Frau Hildegard Sonnenschein-Alber, a long-standing patron of the institution.
+
+Accession No.
+
+Artist (Attributed)
+
+Title
+
+Medium
+
+Year
+
+Source
+
+KWM- 2023-001
+
+Gertrude Falkenbach (1891–1954)
+
+Fensterblick mit Topfpflanzen
+
+Oil on canvas
+
+1924
+
+Dorotheum, April 2023
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 7 of 25
+
+Acquisition Cost
+
+€74,500
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+Accession No.
+
+Artist (Attributed)
+
+Title
+
+Medium
+
+Year
+
+Source
+
+Acquisition Cost
+
+KWM- 2023-002
+
+Rudolf Szymański- Koch (1878– 1941)
+
+Untitled (Harbour Study)
+
+Watercolour on paper
+
+c.1912 Private gallery"
+991c497e69bc,C2,8,Identify the artist of the work acquired in 2023 that accounted for the majority of the year's acquisition spending and name the expert who authenticated it.,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 6 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+3. Permanent Collection Report
+
+3.1 Collection Overview
+
+The permanent collection of Kunsthaus Wien comprises 412 works as of 31 December 2023, encompassing oil paintings, works on paper, sculpture, photography, and selected decorative art objects. The collection spans the period from approximately 1875 to 1979, with the highest density of holdings concentrated in the Viennese Secession and its immediate aftermath (1897–1930), the interwar Neue Sachlichkeit movement as it manifested in Central Europe, and the postwar Austrian avant-garde of the 1950s and 1960s."
+991c497e69bc,C2,8,Identify the artist of the work acquired in 2023 that accounted for the majority of the year's acquisition spending and name the expert who authenticated it.,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Specialist legal advice on intellectual property, image rights, and reproduction licensing is provided on an ad hoc basis by Dr. Theresa Wimmer-Holzmann (sole practitioner, Vienna), who has advised the institution since 2016. Dr. Wimmer-Holzmann's 2023 engagements related primarily to the negotiation of image licensing terms for the Secession Echoes catalogue and an ongoing dispute with a German online platform that reproduced a high- resolution image of a work in the permanent collection without authorisation. That dispute was resolved in October 2023 by way of an out-of-court settlement in the amount of €8,400 paid to the institution, of which 30% (€2,520) was remitted to the artist's estate under the institution's standard reproduction fee-sharing policy.
+
+7.2 Key Contracts Active in 2023"
+991c497e69bc,C2,8,Identify the artist of the work acquired in 2023 that accounted for the majority of the year's acquisition spending and name the expert who authenticated it.,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The month of March 2023 recorded the highest single-month attendance of the year, with 12,847 visitors, driven primarily by the opening of the Secession Echoes retrospective on 4 March and sustained weekend footfall throughout the exhibition's first four weeks. The lowest month was January 2023, with 3,912 visitors (apart from December 2023 when the institution was closed to the public from 16 to 31), consistent with the institution's historically weak January performance attributable to post-holiday visitor fatigue and the absence of a major temporary exhibition during that period."
+991c497e69bc,C2,8,Identify the artist of the work acquired in 2023 that accounted for the majority of the year's acquisition spending and name the expert who authenticated it.,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The 2023 programme was the third year of execution under this strategy and demonstrated strong alignment with all three pillars. Secession Echoes addressed the first and third pillars through its scholarly reappraisal of Secessionist influence and its collaboration with the Charles University Prague. Farbe und Stille addressed the second pillar through its focus on women painters active in the postwar Austrian and Czechoslovak art scenes. The permanent collection galleries underwent a partial rehang in July 2023, with twelve works rotated to storage and eight previously stored works brought to display, increasing the proportion of works by women artists in the permanent display from 18.3% to 24.7%.
+
+5.2 Loan Agreements and Inter-Institutional Exchanges"
+991c497e69bc,C2,8,Identify the artist of the work acquired in 2023 that accounted for the majority of the year's acquisition spending and name the expert who authenticated it.,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Our Director General, Dr. Maximilian Oberhuber-Steiner, assumed the post in January 2022 following the retirement of his predecessor, Dr. Eleonore Vásárhelyi, and has since led the institution through two major exhibition cycles, one significant acquisition campaign, and a complete overhaul of our digital infrastructure. This report covers the full fiscal year from 1 January to 31 December 2023 and represents the most comprehensive institutional self- assessment Kunsthaus Wien has produced in its thirty-one-year history."
+a3b65a545f12,C2,9,Provide the exact number of unique visitors who attended the institution in 2023.,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 9 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+4. Visitor Statistics and Audience Development
+
+4.1 Annual Footfall Summary
+
+Total recorded visitor attendance at Kunsthaus Wien in 2023 reached 94,620, representing an increase of 7.1% over the 2022 figure of 88,370 and surpassing the pre-pandemic record of 88,340 visitors recorded in 2019. This figure encompasses all ticketed admissions, group bookings, school visits, guided tour participants, and holders of annual membership passes. It does not include attendees at private vernissage events, board meetings, or institutional functions held outside public opening hours."
+a3b65a545f12,C2,9,Provide the exact number of unique visitors who attended the institution in 2023.,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 3 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+1. Director General's Foreword
+
+The year 2023 marked a period of remarkable transformation and consolidation for Kunsthaus Wien. Under the continued stewardship of the Board of Trustees and with the tireless dedication of our 87 permanent staff members and 34 part-time associates, we achieved a record-breaking institutional performance that exceeded nearly every measurable target set in our 2021–2025 Strategic Plan."
+a3b65a545f12,C2,9,Provide the exact number of unique visitors who attended the institution in 2023.,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Among the highlights of 2023, we note the successful conclusion of the Secession Echoes retrospective in the spring, which attracted 28,412 visitors over its eleven-week run and became the most attended temporary exhibition in our institutional history. The autumn season brought the equally celebrated dual exhibition Farbe und Stille, co-organised with the Lentos Kunstmuseum Linz, which drew 19,847 visitors between September and November. Total annual footfall reached 94,620 visitors, surpassing the previous record of 88,340 set in 2019."
+a3b65a545f12,C2,9,Provide the exact number of unique visitors who attended the institution in 2023.,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Mag. Renata Prohászka-Weiss
+
+Trustee
+
+March 2027
+
+Acquisitions, HR
+
+Dr. Thomas Arleth
+
+Trustee
+
+March 2025
+
+Finance, Legal
+
+Dipl.-Ing. Sofia Mäkinen-Huber
+
+Trustee
+
+March 2026
+
+Facilities, Digital
+
+The Advisory Council consists of twelve members drawn from academia, the diplomatic community, and the private art market. Advisory Council members serve in an honorary capacity and receive no remuneration. They meet twice annually, in April and October, to provide non-binding counsel on exhibition programming, acquisition strategy, and public engagement. The full list of Advisory Council members is appended as Annex C to this report.
+
+2.3 Staff Overview
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 5 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL"
+a3b65a545f12,C2,9,Provide the exact number of unique visitors who attended the institution in 2023.,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The month of March 2023 recorded the highest single-month attendance of the year, with 12,847 visitors, driven primarily by the opening of the Secession Echoes retrospective on 4 March and sustained weekend footfall throughout the exhibition's first four weeks. The lowest month was January 2023, with 3,912 visitors (apart from December 2023 when the institution was closed to the public from 16 to 31), consistent with the institution's historically weak January performance attributable to post-holiday visitor fatigue and the absence of a major temporary exhibition during that period."
+a3b65a545f12,C2,9,Provide the exact number of unique visitors who attended the institution in 2023.,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Of the surveyed visitors, 38.4% were Vienna residents (postcode prefix 1XXX), 14.2% were Austrian residents from outside Vienna, 21.7% were German-speaking visitors from Germany and Switzerland, 11.3% were visitors from other EU member states, and 14.4% were international visitors from outside the EU. The largest non-German-speaking nationality groups were Italian (3.2%), Czech (2.8%), and American (2.1%). First-time visitors accounted for 61.3% of surveyed respondents, while repeat visitors (those who had attended at least once in the previous twelve months) accounted for 38.7%."
+a3b65a545f12,C2,9,Provide the exact number of unique visitors who attended the institution in 2023.,7,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"RISK- 007
+
+Art market softening affects donation values
+
+High
+
+Medium Maintain donor relationships;
+
+planned giving programme
+
+9.3 Note on Visitor Data Interpretation
+
+A note of caution is warranted regarding the interpretation of visitor statistics presented in Section 4. The total figure of 94,620 visitors represents gross recorded admissions and should not be used without adjustment for certain operational factors. Specifically, holders of the annual Kunsthaus Pass (of whom there were 1,847 active passholders as of 31 December 2023) are recorded as individual admissions on each visit, meaning frequent visitors may be counted multiple times within the annual total. Internal modelling by Mag. Zehetgruber's team suggests that adjusting for estimated repeat pass-holder visits would reduce the effective unique visitor count to approximately 81,200–83,400, though this estimate carries significant uncertainty."
+a3b65a545f12,C2,9,Provide the exact number of unique visitors who attended the institution in 2023.,8,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Furthermore, school groups are recorded at the point of guided tour commencement, not at point of ticket sale. In instances where a school group visits both the temporary and permanent exhibition spaces within a single visit, the group is counted once, not twice. This practice differs from the methodology used by some peer institutions, which count exhibition-level visits rather than person-level visits. Readers comparing KWM statistics to those of peer institutions should be aware of this methodological difference.
+
+9.4 Correction to 2022 Annual Report"
+5f2815894d99,C2,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"2.1 Founding History and Legal Status ......................................................................... 5
+
+2.2 Governance Structure ........................................................................................... 5
+
+2.3 Staff Overview ....................................................................................................... 5
+
+3. Permanent Collection Report .......................................................................... 7
+
+3.1 Collection Overview .............................................................................................. 7
+
+3.2 Acquisitions in 2023 ............................................................................................... 7
+
+3.3 Conservation Status of Permanent Collection ........................................................ 8
+
+3.4 Provenance Review and Restitution ....................................................................... 9"
+5f2815894d99,C2,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"9.4 Correction to 2022 Annual Report
+
+It is noted for the record that the 2022 Annual Report (ref. KWM-DIR-2022-AR-001, published March 2023) contained an error in Section 6.1, where the Federal Chancellery Kunstsektion subsidy was reported as €820,000. The correct figure was €800,000. The €20,000 discrepancy arose from a misclassification of a project-specific grant from the Kunstsektion (ref. BKAMT-2022-KWM-PRJ-007, value €20,000) as core subsidy income rather than project income. This correction has been noted in the 2023 accounts and the 2022 comparative figures in this report reflect the corrected amounts.
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 21 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+10. Personnel Report and Remuneration
+
+10.1 Senior Management Remuneration"
+5f2815894d99,C2,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Of the surveyed visitors, 38.4% were Vienna residents (postcode prefix 1XXX), 14.2% were Austrian residents from outside Vienna, 21.7% were German-speaking visitors from Germany and Switzerland, 11.3% were visitors from other EU member states, and 14.4% were international visitors from outside the EU. The largest non-German-speaking nationality groups were Italian (3.2%), Czech (2.8%), and American (2.1%). First-time visitors accounted for 61.3% of surveyed respondents, while repeat visitors (those who had attended at least once in the previous twelve months) accounted for 38.7%."
+5f2815894d99,C2,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Furthermore, school groups are recorded at the point of guided tour commencement, not at point of ticket sale. In instances where a school group visits both the temporary and permanent exhibition spaces within a single visit, the group is counted once, not twice. This practice differs from the methodology used by some peer institutions, which count exhibition-level visits rather than person-level visits. Readers comparing KWM statistics to those of peer institutions should be aware of this methodological difference.
+
+9.4 Correction to 2022 Annual Report"
+5f2815894d99,C2,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Our Director General, Dr. Maximilian Oberhuber-Steiner, assumed the post in January 2022 following the retirement of his predecessor, Dr. Eleonore Vásárhelyi, and has since led the institution through two major exhibition cycles, one significant acquisition campaign, and a complete overhaul of our digital infrastructure. This report covers the full fiscal year from 1 January to 31 December 2023 and represents the most comprehensive institutional self- assessment Kunsthaus Wien has produced in its thirty-one-year history."
+5f2815894d99,C2,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"From a financial perspective, the institution closed the year with total operating revenue of €6,284,500, against total expenditure of €5,917,340, yielding a modest but strategically meaningful surplus of €367,160. This surplus has been allocated in full to the Conservation Reserve Fund, consistent with the Board resolution of March 2023. The institution received public funding from the City of Vienna's Kulturabteilung (MA 7) in the amount of €2,100,000 and from the Austrian Federal Chancellery's Kunstsektion in the amount of €850,000, totalling €2,950,000 in public subsidy, which represented 46.9% of total operating revenue."
+5f2815894d99,C2,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",7,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+KUNSTHAUS WIEN
+
+Stiftung für Europäische Kunst und Kulturerbe Foundation for European Art and Cultural Heritage
+
+ANNUAL INSTITUTIONAL REPORT Fiscal & Exhibition Year 2023
+
+STRICTLY CONFIDENTIAL — INTERNAL DOCUMENT Not for external distribution. Classification: Restricted.
+
+Prepared by: Office of the Director General Reviewed by: Board of Trustees | Dr. Ingrid Felsenthal-Kraus, Chairwoman Document Reference: KWM-DIR-2023-AR-001
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 1 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+Table of Contents
+
+1. Director General's Foreword ............................................................................ 4
+
+2. Institutional Profile and Governance ................................................................ 5
+
+2.1 Founding History and Legal Status ......................................................................... 5"
+5f2815894d99,C2,10,"According to the 2022 records cited in this report, what was the total core subsidy provided by the Federal Chancellery?",8,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"9.2 Risk Register (Selected Material Risks)
+
+The following represents a selected summary of the institution's material risks as assessed by management for the 2023 Annual Risk Review. The full risk register (ref. KWM-RISK-2023- 001) contains 27 identified risks across six categories. The Board Risk Committee reviewed the full register at its meeting of 7 November 2023.
+
+Risk ID Risk Description
+
+Likelihood
+
+Impact Mitigation
+
+RISK- 001
+
+Reduction in City of Vienna subsidy post-2025 election
+
+Medium
+
+High
+
+Early engagement with MA 7; diversify revenue
+
+RISK- 002
+
+Major conservation failure (Critical-rated work)
+
+Low
+
+High
+
+Conservation Reserve Fund; specialist on retainer
+
+RISK- 003
+
+Restitution claim on additional works
+
+Medium
+
+Medium Active provenance programme; legal reserve €80k
+
+RISK- 004
+
+Key person dependency (Director General)
+
+Low
+
+High
+
+Succession planning; Deputy Director appointment
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 20 of 25"
+6176d1550169,C2,11,Who is the artist of the most valuable work currently held in the permanent collection?,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The institution is registered with the Vienna Commercial Court (Handelsgericht Wien) under registration number FN 189234 p. Its registered office is located at Marxergasse 17, 1030 Wien, Austria. The foundation's purpose, as defined in Article 2 of its Founding Deed (Stiftungsurkunde), is the permanent preservation, scholarly study, public exhibition, and responsible acquisition of works of European fine art, with a particular emphasis on Central European painting, works on paper, and decorative arts from the period 1880 to 1980.
+
+The institution is not a public body and receives no guaranteed public funding, although it has maintained an ongoing subsidy relationship with both the City of Vienna and the Federal Republic of Austria since 1997. The foundation's charitable status (Gemeinnützigkeit) is confirmed annually by the Tax Authority Vienna (Finanzamt Wien), most recently by determination dated 14 March 2023, reference number FA23-2023-GN-00441.
+
+2.2 Governance Structure"
+6176d1550169,C2,11,Who is the artist of the most valuable work currently held in the permanent collection?,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 6 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+3. Permanent Collection Report
+
+3.1 Collection Overview
+
+The permanent collection of Kunsthaus Wien comprises 412 works as of 31 December 2023, encompassing oil paintings, works on paper, sculpture, photography, and selected decorative art objects. The collection spans the period from approximately 1875 to 1979, with the highest density of holdings concentrated in the Viennese Secession and its immediate aftermath (1897–1930), the interwar Neue Sachlichkeit movement as it manifested in Central Europe, and the postwar Austrian avant-garde of the 1950s and 1960s."
+6176d1550169,C2,11,Who is the artist of the most valuable work currently held in the permanent collection?,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"First, the institution will pursue a targeted acquisition campaign in the area of postwar Austrian women artists, for which the Acquisitions Committee has pre-approved a ring-fenced budget of €400,000 drawn from the Conservation Reserve Fund pending a formal Board resolution expected in March 2024. Dr. Riegler-Bauer has identified seven priority works across five artists whose estates or existing owners have expressed willingness to negotiate. The most significant target is a large-format triptych by Herta Kronauer-Weiß (1928–2004), currently in a private collection in Graz, which is estimated to be available for purchase at between €150,000 and €220,000."
+6176d1550169,C2,11,Who is the artist of the most valuable work currently held in the permanent collection?,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Among the highlights of 2023, we note the successful conclusion of the Secession Echoes retrospective in the spring, which attracted 28,412 visitors over its eleven-week run and became the most attended temporary exhibition in our institutional history. The autumn season brought the equally celebrated dual exhibition Farbe und Stille, co-organised with the Lentos Kunstmuseum Linz, which drew 19,847 visitors between September and November. Total annual footfall reached 94,620 visitors, surpassing the previous record of 88,340 set in 2019."
+6176d1550169,C2,11,Who is the artist of the most valuable work currently held in the permanent collection?,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The five most valuable individual works in the collection, based on current insurance valuation, are not identified by name in this report in accordance with security protocol MDU-SEC-2019- 03 approved by the Board. However, it is noted for governance purposes that the single most valuable work in the collection carries an individual insurance valuation of €4,200,000 and belongs to the early Viennese Expressionist period.
+
+3.2 Acquisitions in 2023
+
+The Acquisitions Committee, chaired by Trustee Mag. Renata Prohászka-Weiss and comprising Dr. Sonja Riegler-Bauer (Chief Curator), Prof. Günter Blauensteinbach (Trustee), and two external advisors, met on four occasions in 2023: 16 February, 12 May, 7 September, and 3 November. The Committee reviewed a total of 31 acquisition proposals and approved eight purchases and one donation acceptance."
+6176d1550169,C2,11,Who is the artist of the most valuable work currently held in the permanent collection?,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"The Farbe und Stille exhibition, a dual institutional project co-presented with the Lentos Kunstmuseum Linz and curated by Mag. Josef Weitersberger (Lentos) and Dr. Yuki Nakamura-Stein (KWM), ran from 7 October to 26 November 2023 and attracted 19,847
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 11 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+visitors at the Vienna venue. A travelling version of the exhibition is scheduled to be shown at the Lentos between February and April 2024 under a separate loan agreement (ref. KWM- LOAN-2024-LNZ-001). No revenue sharing arrangement exists for the Linz showing; each institution bears its own operational costs for its respective venue.
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 12 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+5. Exhibition Programme and Curatorial Activity
+
+5.1 Curatorial Philosophy and 2023 Programme Overview"
+3c6ae00e5f17,C2,12,Which department has the largest number of external or non-permanent specialists on contract?,1,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"7.2 Key Contracts Active in 2023
+
+The institution maintained 34 active material contracts as of 31 December 2023. Material contracts are defined, for governance purposes, as any contractual commitment with a total value exceeding €10,000 or a duration exceeding 12 months. The following represents a selected summary of the most significant contracts for disclosure purposes. The full contract register (ref. KWM-ADMIN-CTREG-2023) is maintained by Mag. Andrea Zehetgruber and is available for inspection by Trustees and statutory auditors upon written request.
+
+Contract Ref.
+
+Counterparty
+
+Subject Matter
+
+Term
+
+Annual Value Governing
+
+Law
+
+KWM-CNTR- 2021-017
+
+Hasenkamp Int. Transporte GmbH
+
+Art freight & logistics framework
+
+Jan 2021 – Dec 2025
+
+Variable (€40– 120k)
+
+Austrian law
+
+KWM-CNTR- 2022-003
+
+Raiffeisen Capital Mgmt. AG
+
+Endowment investment mandate
+
+Jan 2018 – ongoing
+
+0.45% AUM p.a.
+
+Austrian law
+
+KWM-CNTR- 2022-008
+
+Praxmarer Rechtsanwälte GmbH
+
+Legal counsel framework"
+3c6ae00e5f17,C2,12,Which department has the largest number of external or non-permanent specialists on contract?,2,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Of the surveyed visitors, 38.4% were Vienna residents (postcode prefix 1XXX), 14.2% were Austrian residents from outside Vienna, 21.7% were German-speaking visitors from Germany and Switzerland, 11.3% were visitors from other EU member states, and 14.4% were international visitors from outside the EU. The largest non-German-speaking nationality groups were Italian (3.2%), Czech (2.8%), and American (2.1%). First-time visitors accounted for 61.3% of surveyed respondents, while repeat visitors (those who had attended at least once in the previous twelve months) accounted for 38.7%."
+3c6ae00e5f17,C2,12,Which department has the largest number of external or non-permanent specialists on contract?,3,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Of the 89 assessed works, 31 were rated Excellent, 37 were rated Good, 14 were rated Fair, 6 were rated Poor, and 1 was rated Critical. The single work rated Critical is a large-format oil painting (KWM-1998-034, attributed to the circle of Oskar Kokoschka, c. 1918, oil on canvas, 182 × 240 cm) which has been removed from the display rotation and placed in climate- controlled storage pending a full structural treatment estimated to cost between €28,000 and €45,000. A specialist contractor has been shortlisted and a final cost proposal is expected in Q1 2024.
+
+The six works rated Poor are scheduled for preventive treatment in the first half of 2024. Total conservation expenditure in 2023 amounted to €187,340, which is €12,660 below the
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 8 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL"
+3c6ae00e5f17,C2,12,Which department has the largest number of external or non-permanent specialists on contract?,4,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"RISK- 004
+
+Key person dependency (Director General)
+
+Low
+
+High
+
+Succession planning; Deputy Director appointment
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 20 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+Risk ID Risk Description
+
+Likelihood
+
+Impact Mitigation
+
+RISK- 005
+
+Data breach / CMS unauthorised access
+
+Low
+
+High
+
+Role-based access; annual IT security audit
+
+RISK- 006
+
+Failure to fill Development Director role
+
+Medium
+
+High
+
+Extended search; interim fundraising consultant
+
+RISK- 007
+
+Art market softening affects donation values
+
+High
+
+Medium Maintain donor relationships;
+
+planned giving programme
+
+9.3 Note on Visitor Data Interpretation"
+3c6ae00e5f17,C2,12,Which department has the largest number of external or non-permanent specialists on contract?,5,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"KWM-DIR-2023-AR-001 | Internal Use Only | Page 22 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+Seven new permanent positions were filled in 2023, including two replacements for departures and five positions approved in the 2023 budget as part of the institution's controlled growth plan. The average time-to-fill for permanent positions was 98 days from vacancy declaration to start date, compared to a sector benchmark of approximately 75–85 days. The longer-than- benchmark time-to-fill reflects the specialised nature of the institution's roles and its non- negotiable requirement that all new staff demonstrate German-language proficiency at minimum B2 level.
+
+KWM-DIR-2023-AR-001 | Internal Use Only | Page 23 of 25
+
+KUNSTHAUS WIEN | Annual Institutional Report 2023 | STRICTLY CONFIDENTIAL
+
+Annexes
+
+Annex A — Glossary of Internal Reference Codes"
+3c6ae00e5f17,C2,12,Which department has the largest number of external or non-permanent specialists on contract?,6,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Access to the CMS is role-based and governed by the Data Access Policy (ref. KWM-IT-DAP- 2021-001). Full access (read/write across all modules) is restricted to Dr. Yuki Nakamura- Stein (Head of Digital & Collections Management) and Mag. Andrea Zehetgruber (Head of Finance & Administration). Curatorial staff have read/write access to collection and loan records but not to financial or personnel modules. Conservation staff have read/write access to condition records only. All external users, including statutory auditors, are granted temporary read-only access for defined audit periods only.
+
+8.2 Website and Digital Engagement"
+3c6ae00e5f17,C2,12,Which department has the largest number of external or non-permanent specialists on contract?,7,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"From a financial perspective, the institution closed the year with total operating revenue of €6,284,500, against total expenditure of €5,917,340, yielding a modest but strategically meaningful surplus of €367,160. This surplus has been allocated in full to the Conservation Reserve Fund, consistent with the Board resolution of March 2023. The institution received public funding from the City of Vienna's Kulturabteilung (MA 7) in the amount of €2,100,000 and from the Austrian Federal Chancellery's Kunstsektion in the amount of €850,000, totalling €2,950,000 in public subsidy, which represented 46.9% of total operating revenue."
+3c6ae00e5f17,C2,12,Which department has the largest number of external or non-permanent specialists on contract?,8,data_folder/KunsthausWien_AnnualReport_2023.pdf,data_folder/KunsthausWien_AnnualReport_2023.pdf,5ea4396c5146a52ee5e7b9bf5a925786,"Furthermore, school groups are recorded at the point of guided tour commencement, not at point of ticket sale. In instances where a school group visits both the temporary and permanent exhibition spaces within a single visit, the group is counted once, not twice. This practice differs from the methodology used by some peer institutions, which count exhibition-level visits rather than person-level visits. Readers comparing KWM statistics to those of peer institutions should be aware of this methodological difference.
+
+9.4 Correction to 2022 Annual Report"

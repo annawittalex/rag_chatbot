@@ -118,3 +118,6 @@ models/
 app.py
 static/
 templates/
+
+chroma_database/
+runs/
