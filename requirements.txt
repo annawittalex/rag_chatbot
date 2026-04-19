@@ -24,4 +24,9 @@ protobuf==5.29.2
 # WEB FRAMEWORK
 flask
 
+langchain-huggingface
+sentence-transformers
+transformers
+accelerate
+sentencepiece
 

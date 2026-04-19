@@ -1,0 +1,35 @@
+{
+  "run_id": "209a88b218ac",
+  "timestamp_utc": "2026-04-05T10:01:24.981869+00:00",
+  "config": {
+    "embedding_model": "nomic-embed-text",
+    "chunking_strategy": "semantic",
+    "chunk_params": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "breakpoint_threshold_type": "percentile"
+    },
+    "retriever_params": {
+      "k": 4,
+      "fetch_k": 20,
+      "lambda_mult": 0.6,
+      "search_type": "mmr"
+    },
+    "llm_model": "llama3.2",
+    "llm_temperature": 0.1,
+    "data_dir": "data_folder/",
+    "chroma_path": "chroma_database",
+    "collection_prefix": "rag_chatbot",
+    "logs_dir": "runs",
+    "random_seed": 42
+  },
+  "ingestion_seconds": 29.5028,
+  "retrieval_only_seconds": 3.5301,
+  "generation_only_seconds": 4.5476,
+  "query_to_response_seconds": 8.0776,
+  "end_to_end_seconds": 37.6305,
+  "chunk_count": 3,
+  "avg_chunk_chars": 1662.33,
+  "avg_chunk_tokens_approx": 415.33,
+  "dataset_fingerprint": "ad558587634c500e7e6d58cc00b70f31"
+}
