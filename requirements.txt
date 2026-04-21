@@ -13,7 +13,7 @@ langchain-experimental
 # PDF/DOCUMENT TOOLS
 pdfplumber
 unstructured[all-docs]
-pymupdf4llm
+pymupdf
 
 # VECTOR STORE
 chromadb
@@ -31,3 +31,8 @@ accelerate
 sentencepiece
 
 ipykernel
+
+
+# RAGAS (EvaluationDataset / evaluate; pulls huggingface datasets as a dependency in most installs)
+ragas
+datasets
