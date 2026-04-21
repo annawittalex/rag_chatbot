@@ -5,7 +5,6 @@ ollama
 langchain
 langchain-classic
 langchain-core
-langchain-community
 langchain-ollama
 langchain-text-splitters
 langchain-chroma
@@ -14,6 +13,7 @@ langchain-experimental
 # PDF/DOCUMENT TOOLS
 pdfplumber
 unstructured[all-docs]
+pymupdf4llm
 
 # VECTOR STORE
 chromadb
@@ -30,3 +30,4 @@ transformers
 accelerate
 sentencepiece
 
+ipykernel

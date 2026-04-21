@@ -85,8 +85,7 @@ You need an active internet connection to:
         source venv_rag/bin/activate
 
         pip install -r requirements.txt
-
-        (venv) $ pip install ipykernel
+        
         ```
 
 ### Phase 2: Daily Usage (100% Offline) 
