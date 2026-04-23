@@ -9,6 +9,7 @@ langchain-ollama
 langchain-text-splitters
 langchain-chroma
 langchain-experimental
+langchain-community
 
 # PDF/DOCUMENT TOOLS
 pdfplumber
@@ -33,6 +34,8 @@ sentencepiece
 ipykernel
 
 
-# RAGAS (EvaluationDataset / evaluate; pulls huggingface datasets as a dependency in most installs)
-ragas
+# RAGAS (latest available on current package index)
+ragas==0.4.3
 datasets
+openai
+ipywidgets
