@@ -15,6 +15,10 @@ langchain-community
 pdfplumber
 unstructured[all-docs]
 pymupdf
+pymupdf4llm
+
+opendataloader-pdf 
+langchain-opendataloader-pdf
 
 # VECTOR STORE
 chromadb
@@ -39,3 +43,4 @@ ragas==0.4.3
 datasets
 openai
 ipywidgets
+pandas
